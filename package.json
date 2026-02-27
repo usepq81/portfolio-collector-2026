@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-collector-2026",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.js"
+  }
+}
