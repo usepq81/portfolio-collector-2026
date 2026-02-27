@@ -1,9 +1,9 @@
 import fs from "fs";
 
-const TOKEN = process.env.GITHUB_TOKEN;
+const TOKEN = process.env.GITHUB_TOKEN; // Can be PAT or GITHUB_TOKEN
 
 if (!TOKEN) {
-  console.error("GITHUB_TOKEN is missing.");
+  console.error("GITHUB_TOKEN (or PAT) is missing.");
   process.exit(1);
 }
 
@@ -72,7 +72,7 @@ function generateMarkdown(repos) {
 }
 
 async function main() {
-  const existingMap = getExistingRepos(); // Map of name → repo
+  const existingMap = getExistingRepos();
   let allNewRepos = [];
   let page = 1;
 
@@ -81,9 +81,7 @@ async function main() {
 
     if (!data.items || data.items.length === 0) break;
 
-    // Only add repos not in existingMap
     const newRepos = data.items.filter(repo => !existingMap.has(repo.name));
-
     allNewRepos.push(...newRepos);
 
     if (data.items.length < 100 || page === 10) break; // 1000 max
