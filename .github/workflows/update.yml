@@ -24,7 +24,7 @@ jobs:
       - name: Run update script
         run: node scripts/update.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # Use your PAT stored in repo secrets
 
       - name: Commit and push if changed
         run: |
