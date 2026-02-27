@@ -11,20 +11,27 @@ const START_DATE = "2026-01-01";
 const END_DATE = "2026-12-31";
 const README_PATH = "README.md";
 
-// Read existing repos from README
+// Read existing repo names from README
 function getExistingRepos() {
-  if (!fs.existsSync(README_PATH)) return new Set();
+  if (!fs.existsSync(README_PATH)) return new Map();
 
   const content = fs.readFileSync(README_PATH, "utf-8");
-  const regex = /\| \[([^\]]+)\]\(https:\/\/github\.com\/[^\)]+\)/g;
-  const existing = new Set();
+  const regex = /\| \[([^\]]+)\]\(https:\/\/github\.com\/([^\)]+)\) \| ([^\|]+) \| (\d+) \| (\d{4}-\d{2}-\d{2}) \|/g;
+  const existing = new Map();
   let match;
   while ((match = regex.exec(content)) !== null) {
-    existing.add(match[1]);
+    existing.set(match[1], {
+      name: match[1],
+      html_url: `https://github.com/${match[2]}`,
+      owner: { login: match[3].trim() },
+      stargazers_count: parseInt(match[4], 10),
+      pushed_at: match[5]
+    });
   }
   return existing;
 }
 
+// Fetch repositories from GitHub
 async function fetchRepos(page = 1) {
   const query = `portfolio in:name pushed:${START_DATE}..${END_DATE} fork:false`;
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(
@@ -46,8 +53,11 @@ async function fetchRepos(page = 1) {
   return response.json();
 }
 
+// Generate README content
 function generateMarkdown(repos) {
   let output = `# 📁 Portfolio Repositories (2026)
+
+> ℹ️ If your portfolio repository is missing, feel free to submit a PR to add it.
 
 | Repository | Owner | ⭐ Stars | Last Push |
 |------------|--------|----------|------------|
@@ -62,9 +72,8 @@ function generateMarkdown(repos) {
 }
 
 async function main() {
-  const existingRepos = getExistingRepos();
-
-  let allRepos = [];
+  const existingMap = getExistingRepos(); // Map of name → repo
+  let allNewRepos = [];
   let page = 1;
 
   while (true) {
@@ -72,25 +81,28 @@ async function main() {
 
     if (!data.items || data.items.length === 0) break;
 
-    // Filter out repos already in README
-    const newRepos = data.items.filter(repo => !existingRepos.has(repo.name));
+    // Only add repos not in existingMap
+    const newRepos = data.items.filter(repo => !existingMap.has(repo.name));
 
-    allRepos.push(...newRepos);
+    allNewRepos.push(...newRepos);
 
     if (data.items.length < 100 || page === 10) break; // 1000 max
     page++;
   }
 
-  if (allRepos.length === 0) {
-    console.log("No new repositories to add.");
-    return;
+  // Merge old and new repos
+  for (const repo of allNewRepos) {
+    existingMap.set(repo.name, repo);
   }
 
-  const markdown = generateMarkdown(allRepos);
+  // Convert Map to array and sort A → Z
+  const sortedRepos = Array.from(existingMap.values()).sort((a, b) =>
+    a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+  );
 
-  fs.writeFileSync(README_PATH, markdown, { flag: "a" }); // append new repos
-
-  console.log(`Added ${allRepos.length} new repositories to README.`);
+  const markdown = generateMarkdown(sortedRepos);
+  fs.writeFileSync(README_PATH, markdown);
+  console.log(`Updated README with ${allNewRepos.length} new repositories.`);
 }
 
 main().catch(err => {
