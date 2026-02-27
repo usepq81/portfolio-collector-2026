@@ -2,7 +2,7 @@ name: Update Portfolio List
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Daily at 03:00 UTC
+    - cron: "0 */6 * * *"   # Every 6 hours
   workflow_dispatch:
 
 permissions:
