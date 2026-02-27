@@ -9,6 +9,21 @@ if (!TOKEN) {
 
 const START_DATE = "2026-01-01";
 const END_DATE = "2026-12-31";
+const README_PATH = "README.md";
+
+// Read existing repos from README
+function getExistingRepos() {
+  if (!fs.existsSync(README_PATH)) return new Set();
+
+  const content = fs.readFileSync(README_PATH, "utf-8");
+  const regex = /\| \[([^\]]+)\]\(https:\/\/github\.com\/[^\)]+\)/g;
+  const existing = new Set();
+  let match;
+  while ((match = regex.exec(content)) !== null) {
+    existing.add(match[1]);
+  }
+  return existing;
+}
 
 async function fetchRepos(page = 1) {
   const query = `portfolio in:name pushed:${START_DATE}..${END_DATE} fork:false`;
@@ -47,6 +62,8 @@ function generateMarkdown(repos) {
 }
 
 async function main() {
+  const existingRepos = getExistingRepos();
+
   let allRepos = [];
   let page = 1;
 
@@ -55,17 +72,25 @@ async function main() {
 
     if (!data.items || data.items.length === 0) break;
 
-    allRepos.push(...data.items);
+    // Filter out repos already in README
+    const newRepos = data.items.filter(repo => !existingRepos.has(repo.name));
+
+    allRepos.push(...newRepos);
 
     if (data.items.length < 100 || page === 10) break; // 1000 max
     page++;
   }
 
+  if (allRepos.length === 0) {
+    console.log("No new repositories to add.");
+    return;
+  }
+
   const markdown = generateMarkdown(allRepos);
 
-  fs.writeFileSync("README.md", markdown);
+  fs.writeFileSync(README_PATH, markdown, { flag: "a" }); // append new repos
 
-  console.log(`Updated README with ${allRepos.length} repositories.`);
+  console.log(`Added ${allRepos.length} new repositories to README.`);
 }
 
 main().catch(err => {
