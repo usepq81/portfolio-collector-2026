@@ -236,6 +236,7 @@
 | [-CONSULTORIA-CHINA-BRASIL-Portfolio](https://github.com/MaryPeh/-CONSULTORIA-CHINA-BRASIL-Portfolio) | MaryPeh | 0 | 2026-08-28 |
 | [-Coral-Reef-Health-Classification](https://github.com/Shweta-Portfolio/-Coral-Reef-Health-Classification) | Shweta-Portfolio | 0 | 2026-06-16 |
 | [-CorelDRAW-portfolio](https://github.com/nazifafayazi/-CorelDRAW-portfolio) | nazifafayazi | 0 | 2026-07-31 |
+| [-course-portfolio_ITAI-4370](https://github.com/joelleyarro03/-course-portfolio_ITAI-4370) | joelleyarro03 | 0 | 2026-11-28 |
 | [-cp_portfolio2016-](https://github.com/EliteDarkLord35/-cp_portfolio2016-) | EliteDarkLord35 | 0 | 2026-10-30 |
 | [-cpp-portfolio-and-labs](https://github.com/a7g8b223/-cpp-portfolio-and-labs) | a7g8b223 | 0 | 2026-08-24 |
 | [-Cross-Platform-App-Portfolio-Monorepo-Principal](https://github.com/JohansitoDev/-Cross-Platform-App-Portfolio-Monorepo-Principal) | JohansitoDev | 1 | 2026-05-17 |
@@ -275,6 +276,7 @@
 | [-data-engineering-portfolio-](https://github.com/san-sanjay/-data-engineering-portfolio-) | san-sanjay | 0 | 2026-05-25 |
 | [-data-portfolio](https://github.com/Tushar841/-data-portfolio) | Tushar841 | 0 | 2026-09-19 |
 | [-data-science-portfolio](https://github.com/elishaaminu90-debug/-data-science-portfolio) | elishaaminu90-debug | 0 | 2026-05-31 |
+| [-dayala-portfolio](https://github.com/dayalsankar0726-blip/-dayala-portfolio) | dayalsankar0726-blip | 0 | 2026-11-28 |
 | [-dbydash-portfolio](https://github.com/yudahinad/-dbydash-portfolio) | yudahinad | 0 | 2026-08-14 |
 | [-DCDA40833-portfolio](https://github.com/Hallirshea/-DCDA40833-portfolio) | Hallirshea | 0 | 2026-03-02 |
 | [-dd-studio-portfolio](https://github.com/dimitri309/-dd-studio-portfolio) | dimitri309 | 0 | 2026-06-15 |
@@ -2978,6 +2980,7 @@
 | [A-Gamified-Portfolio-Website](https://github.com/shiz1ee/A-Gamified-Portfolio-Website) | shiz1ee | 0 | 2026-10-12 |
 | [A-Ganiyu-Portfolio](https://github.com/abdulganiyuaziz/A-Ganiyu-Portfolio) | abdulganiyuaziz | 0 | 2026-03-26 |
 | [A-Goelz-Portfolio](https://github.com/agoelz/A-Goelz-Portfolio) | agoelz | 0 | 2026-08-02 |
+| [a-grave-portfolio](https://github.com/cryptigrave/a-grave-portfolio) | cryptigrave | 0 | 2026-11-28 |
 | [A-H-Farooqui-Portfolio](https://github.com/Kashif-Farooqui/A-H-Farooqui-Portfolio) | Kashif-Farooqui | 0 | 2026-04-22 |
 | [a-little-space-of-mine-portfolio](https://github.com/terenyeagerzs/a-little-space-of-mine-portfolio) | terenyeagerzs | 0 | 2026-11-20 |
 | [a-majid-portfolio](https://github.com/emmjaymedia/a-majid-portfolio) | emmjaymedia | 0 | 2026-10-13 |
@@ -3982,6 +3985,7 @@
 | [abdaullah-ali-portfolio_](https://github.com/abdallhali03406391-cmyk/abdaullah-ali-portfolio_) | abdallhali03406391-cmyk | 0 | 2026-07-26 |
 | [abdazizhamud-portfolio](https://github.com/abdazizhamud/abdazizhamud-portfolio) | abdazizhamud | 0 | 2026-06-15 |
 | [abdd-9t-gfx-portfolio](https://github.com/abdoudefron-droid/abdd-9t-gfx-portfolio) | abdoudefron-droid | 0 | 2026-10-17 |
+| [abdeen-Portfolio](https://github.com/citimarketn/abdeen-Portfolio) | citimarketn | 0 | 2026-11-28 |
 | [Abdel_Ch_Engineering-_Portfolio.github.io](https://github.com/Abdel-26/Abdel_Ch_Engineering-_Portfolio.github.io) | Abdel-26 | 0 | 2026-09-25 |
 | [Abdel-_Ch_Engineering-Portfolio](https://github.com/Abdel-26/Abdel-_Ch_Engineering-Portfolio) | Abdel-26 | 0 | 2026-09-25 |
 | [Abdel-Traore-Portfolio](https://github.com/idrisstraore962-source/Abdel-Traore-Portfolio) | idrisstraore962-source | 0 | 2026-04-11 |
@@ -4338,6 +4342,7 @@
 | [Abdulla-Abdelrahman-s-portfolio](https://github.com/Noora-Ahmed/Abdulla-Abdelrahman-s-portfolio) | Noora-Ahmed | 0 | 2026-09-25 |
 | [Abdulla-Portfolio](https://github.com/a-alhasani/Abdulla-Portfolio) | a-alhasani | 0 | 2026-03-15 |
 | [abdulla-portfolio](https://github.com/abdullayahya555-cmyk/abdulla-portfolio) | abdullayahya555-cmyk | 0 | 2026-09-02 |
+| [Abdulla-portfolio](https://github.com/kx771/Abdulla-portfolio) | kx771 | 0 | 2026-11-28 |
 | [abdulla-python-portfolio](https://github.com/amb61092/abdulla-python-portfolio) | amb61092 | 0 | 2026-08-12 |
 | [Abdulla-SDE-Portfolio](https://github.com/Abdulla-Elkiswani/Abdulla-SDE-Portfolio) | Abdulla-Elkiswani | 0 | 2026-06-23 |
 | [abdulla-zohaib-portfolio](https://github.com/abdullazohaib/abdulla-zohaib-portfolio) | abdullazohaib | 0 | 2026-09-06 |
@@ -6407,6 +6412,7 @@
 | [Addy-Portfolio](https://github.com/addy-boii/Addy-Portfolio) | addy-boii | 0 | 2026-10-28 |
 | [addy-portfolio-v3](https://github.com/addy1002/addy-portfolio-v3) | addy1002 | 0 | 2026-04-30 |
 | [Addy-Transformation-Portfolio](https://github.com/Bibisho214/Addy-Transformation-Portfolio) | Bibisho214 | 0 | 2026-09-10 |
+| [ade-abidemi-portfolio](https://github.com/mstamina/ade-abidemi-portfolio) | mstamina | 0 | 2026-11-28 |
 | [ade-febri-portfolio](https://github.com/adefebri/ade-febri-portfolio) | adefebri | 0 | 2026-06-23 |
 | [Ade-portfolio.github.io](https://github.com/Ade-gns/Ade-portfolio.github.io) | Ade-gns | 0 | 2026-05-10 |
 | [ade-s-portfolio](https://github.com/Adebayor2/ade-s-portfolio) | Adebayor2 | 0 | 2026-07-11 |
@@ -6532,6 +6538,7 @@
 | [Adeola-portfolio](https://github.com/dabbiz11/Adeola-portfolio) | dabbiz11 | 0 | 2026-03-27 |
 | [Adeola-Sina-Giwa-Software-QA-Portfolio-](https://github.com/adeolasinagiwa/Adeola-Sina-Giwa-Software-QA-Portfolio-) | adeolasinagiwa | 0 | 2026-11-09 |
 | [AdeoluAcademicPortfolio](https://github.com/really-riel/AdeoluAcademicPortfolio) | really-riel | 0 | 2026-03-13 |
+| [AdeoluOO-Portfolio](https://github.com/mhistasaint/AdeoluOO-Portfolio) | mhistasaint | 0 | 2026-11-28 |
 | [AdeoyeAdela.ElectronPortfolio](https://github.com/adelaadeoye/AdeoyeAdela.ElectronPortfolio) | adelaadeoye | 0 | 2026-03-18 |
 | [adepeju-portfolio](https://github.com/adepeju-portfolio/adepeju-portfolio) | adepeju-portfolio | 0 | 2026-06-06 |
 | [Adepitan-Yewande-Portfolio](https://github.com/Bigmehelen/Adepitan-Yewande-Portfolio) | Bigmehelen | 0 | 2026-03-06 |
@@ -6887,6 +6894,7 @@
 | [aditya-3d-portfolio](https://github.com/Adityaarc0007/aditya-3d-portfolio) | Adityaarc0007 | 0 | 2026-08-22 |
 | [Aditya-Abhyankar-Portfolio](https://github.com/TIMEFREAK7/Aditya-Abhyankar-Portfolio) | TIMEFREAK7 | 0 | 2026-04-12 |
 | [aditya-aggarwal-portfolio](https://github.com/adityagg22/aditya-aggarwal-portfolio) | adityagg22 | 0 | 2026-08-17 |
+| [aditya-ai-portfolio](https://github.com/aditya-singh-2003/aditya-ai-portfolio) | aditya-singh-2003 | 0 | 2026-11-28 |
 | [aditya-anurag-portfolio](https://github.com/markchanna/aditya-anurag-portfolio) | markchanna | 0 | 2026-05-30 |
 | [Aditya-Arnav-portfolio](https://github.com/Hydra-Of-Malice/Aditya-Arnav-portfolio) | Hydra-Of-Malice | 0 | 2026-09-26 |
 | [aditya-arora-portfolio](https://github.com/adityaarora0604/aditya-arora-portfolio) | adityaarora0604 | 0 | 2026-03-26 |
@@ -9478,6 +9486,7 @@
 | [ai-data-learning-portfolio](https://github.com/bola-adesanya/ai-data-learning-portfolio) | bola-adesanya | 0 | 2026-06-17 |
 | [AI-DATA-PORTFOLIO](https://github.com/Constance02/AI-DATA-PORTFOLIO) | Constance02 | 0 | 2026-03-01 |
 | [ai-data-portfolio](https://github.com/DanielMPB/ai-data-portfolio) | DanielMPB | 0 | 2026-04-07 |
+| [AI-data-portfolio](https://github.com/tinktechonline-create/AI-data-portfolio) | tinktechonline-create | 0 | 2026-11-28 |
 | [ai-data-product-portfolio](https://github.com/Leeli911/ai-data-product-portfolio) | Leeli911 | 0 | 2026-07-03 |
 | [ai-data-quality-open-source-portfolio](https://github.com/alphafemale384-glitch/ai-data-quality-open-source-portfolio) | alphafemale384-glitch | 0 | 2026-11-16 |
 | [ai-data-quality-portfolio](https://github.com/Yassoi1982/ai-data-quality-portfolio) | Yassoi1982 | 0 | 2026-07-03 |
@@ -9611,6 +9620,7 @@
 | [ai-eval-portfolio](https://github.com/David899b/ai-eval-portfolio) | David899b | 0 | 2026-09-26 |
 | [ai-eval-rlhf-portfolio](https://github.com/chrisnwando031-lgtm/ai-eval-rlhf-portfolio) | chrisnwando031-lgtm | 0 | 2026-11-24 |
 | [ai-evals-portfolio](https://github.com/everyai-com/ai-evals-portfolio) | everyai-com | 0 | 2026-10-23 |
+| [ai-evaluation-and-safety-portfolio](https://github.com/fulcrumfm/ai-evaluation-and-safety-portfolio) | fulcrumfm | 0 | 2026-11-28 |
 | [ai-evaluation-center-portfolio](https://github.com/sophietao20-star/ai-evaluation-center-portfolio) | sophietao20-star | 0 | 2026-09-04 |
 | [AI-evaluation-governance-portfolio](https://github.com/NanbolRebecca/AI-evaluation-governance-portfolio) | NanbolRebecca | 0 | 2026-09-18 |
 | [AI-Evaluation-Portfolio](https://github.com/NatV26/AI-Evaluation-Portfolio) | NatV26 | 0 | 2026-02-27 |
@@ -11732,6 +11742,8 @@
 | [AKB-PORTFOLIO](https://github.com/anthonykuma25/AKB-PORTFOLIO) | anthonykuma25 | 0 | 2026-04-01 |
 | [AKB-Portfolio](https://github.com/Alok-Kumar-Behera/AKB-Portfolio) | Alok-Kumar-Behera | 0 | 2026-08-17 |
 | [Akbar_Portfolio](https://github.com/Akbarkhan2266/Akbar_Portfolio) | Akbarkhan2266 | 0 | 2026-06-14 |
+| [Akbar-Desain-Dokumentasi-Foto-Portfolio](https://github.com/akbargroupofficial-dot/Akbar-Desain-Dokumentasi-Foto-Portfolio) | akbargroupofficial-dot | 0 | 2026-11-28 |
+| [Akbar-Desain-Portfolio](https://github.com/editingdesigngrapic-max/Akbar-Desain-Portfolio) | editingdesigngrapic-max | 0 | 2026-11-28 |
 | [akbar-engineering-portfolio](https://github.com/akbaraulia/akbar-engineering-portfolio) | akbaraulia | 0 | 2026-07-17 |
 | [akbar-hossan-portfolio](https://github.com/MdAkbar05/akbar-hossan-portfolio) | MdAkbar05 | 1 | 2026-03-15 |
 | [Akbar-Husain-Portfolio](https://github.com/Akbarhusain429/Akbar-Husain-Portfolio) | Akbarhusain429 | 0 | 2026-07-30 |
@@ -11971,6 +11983,7 @@
 | [akm_portfolio](https://github.com/aman-mittal-dev/akm_portfolio) | aman-mittal-dev | 0 | 2026-04-07 |
 | [akm-portfolio](https://github.com/miraabdulkhalil/akm-portfolio) | miraabdulkhalil | 0 | 2026-07-01 |
 | [akma-portfolio](https://github.com/aidaakma12/akma-portfolio) | aidaakma12 | 0 | 2026-06-18 |
+| [Akmal_portfolio](https://github.com/Moqaddas786/Akmal_portfolio) | Moqaddas786 | 0 | 2026-11-28 |
 | [akmal-portfolio](https://github.com/ackmulz/akmal-portfolio) | ackmulz | 0 | 2026-04-17 |
 | [Akmal-Portfolio](https://github.com/akmalvizo/Akmal-Portfolio) | akmalvizo | 0 | 2026-07-07 |
 | [Akmal-Portfolio-website](https://github.com/Akmal-1031/Akmal-Portfolio-website) | Akmal-1031 | 0 | 2026-08-09 |
@@ -12300,6 +12313,7 @@
 | [al-dionaldo-portfolio](https://github.com/aldotechph-alt/al-dionaldo-portfolio) | aldotechph-alt | 0 | 2026-09-27 |
 | [Al-Faravi-portfolio-](https://github.com/Al-Faravi/Al-Faravi-portfolio-) | Al-Faravi | 0 | 2026-09-07 |
 | [al-farrah-portfolio](https://github.com/ABdrabboh/al-farrah-portfolio) | ABdrabboh | 0 | 2026-06-01 |
+| [al-fayed-portfolio](https://github.com/itsfayed/al-fayed-portfolio) | itsfayed | 0 | 2026-11-28 |
 | [al-hajjar-portfolio](https://github.com/moamen22-00/al-hajjar-portfolio) | moamen22-00 | 0 | 2026-05-11 |
 | [al-hasib-portfolio](https://github.com/bilayet5821/al-hasib-portfolio) | bilayet5821 | 0 | 2026-09-01 |
 | [Al-Mawa-portfolio-main3.0](https://github.com/Urban498/Al-Mawa-portfolio-main3.0) | Urban498 | 0 | 2026-03-02 |
@@ -14881,6 +14895,7 @@
 | [ambuj-portfolio-v2](https://github.com/Ambuj123-lab/ambuj-portfolio-v2) | Ambuj123-lab | 0 | 2026-03-01 |
 | [amc-portfolio](https://github.com/jannacek/amc-portfolio) | jannacek | 0 | 2026-03-11 |
 | [amcarigna-portfolio](https://github.com/amcarigna/amcarigna-portfolio) | amcarigna | 0 | 2026-09-21 |
+| [amcheachamroeun-portfolio](https://github.com/AmCheachamroeun-Portfolio/amcheachamroeun-portfolio) | AmCheachamroeun-Portfolio | 0 | 2026-11-28 |
 | [amchethan-portfolio](https://github.com/AMChethan/amchethan-portfolio) | AMChethan | 0 | 2026-06-23 |
 | [amd-nsri-portfolio](https://github.com/Ahmed96Alnaseri/amd-nsri-portfolio) | Ahmed96Alnaseri | 0 | 2026-06-14 |
 | [AMD-Slingshot-portfolio](https://github.com/khasim55/AMD-Slingshot-portfolio) | khasim55 | 0 | 2026-03-01 |
@@ -15451,6 +15466,7 @@
 | [amokrzycki-portfolio](https://github.com/amokrzycki/amokrzycki-portfolio) | amokrzycki | 0 | 2026-10-09 |
 | [amol-dev-portfolio](https://github.com/AMOLJADHAV9/amol-dev-portfolio) | AMOLJADHAV9 | 0 | 2026-04-19 |
 | [Amol-Dev-Portfolio](https://github.com/AMOL-DEV-24/Amol-Dev-Portfolio) | AMOL-DEV-24 | 0 | 2026-05-19 |
+| [amol-gore-portfolio](https://github.com/amol2007/amol-gore-portfolio) | amol2007 | 0 | 2026-11-28 |
 | [Amol-portfolio](https://github.com/AmolGoykar-hub/Amol-portfolio) | AmolGoykar-hub | 0 | 2026-03-06 |
 | [amol-portfolio](https://github.com/rishi-jn7/amol-portfolio) | rishi-jn7 | 0 | 2026-06-14 |
 | [AMOL-PORTFOLIO](https://github.com/amolpawar24/AMOL-PORTFOLIO) | amolpawar24 | 0 | 2026-07-22 |
@@ -17666,6 +17682,7 @@
 | [Ankita_Portfolio](https://github.com/ank17a-5/Ankita_Portfolio) | ank17a-5 | 0 | 2026-07-31 |
 | [Ankita_portfolio](https://github.com/anku-byte/Ankita_portfolio) | anku-byte | 0 | 2026-11-19 |
 | [Ankita---portfolio-](https://github.com/ankitay2359-dev/Ankita---portfolio-) | ankitay2359-dev | 0 | 2026-09-16 |
+| [Ankita--portfolio](https://github.com/Ankitapatil17116/Ankita--portfolio) | Ankitapatil17116 | 0 | 2026-11-28 |
 | [ankita-babar-portfolio](https://github.com/Ankita-babar/ankita-babar-portfolio) | Ankita-babar | 0 | 2026-07-28 |
 | [ankita-chatterjee-portfolio](https://github.com/chatterjeeankita0903-boop/ankita-chatterjee-portfolio) | chatterjeeankita0903-boop | 0 | 2026-07-05 |
 | [Ankita-Dalvi-Portfolio](https://github.com/himanshud2407/Ankita-Dalvi-Portfolio) | himanshud2407 | 0 | 2026-09-27 |
@@ -18951,6 +18968,7 @@
 | [apcsp-portfolio](https://github.com/pkdev0101/apcsp-portfolio) | pkdev0101 | 0 | 2026-08-21 |
 | [apd-portfolio](https://github.com/avanegm/apd-portfolio) | avanegm | 0 | 2026-09-10 |
 | [apdifatah-portfolio](https://github.com/apdifatahsoyaal-cpu/apdifatah-portfolio) | apdifatahsoyaal-cpu | 0 | 2026-10-03 |
+| [apec-ai-portfolio](https://github.com/ApecSinlapachai/apec-ai-portfolio) | ApecSinlapachai | 0 | 2026-11-28 |
 | [apeflow-portfolio](https://github.com/MohitSinghMaurya/apeflow-portfolio) | MohitSinghMaurya | 0 | 2026-06-02 |
 | [Apeksha-Portfolio](https://github.com/M-pixie/Apeksha-Portfolio) | M-pixie | 0 | 2026-03-26 |
 | [apeksha-portfolio](https://github.com/apekshathorvat/apeksha-portfolio) | apekshathorvat | 0 | 2026-07-09 |
@@ -19015,6 +19033,7 @@
 | [ApexPlanet-Task1-Portfolio](https://github.com/jahanavi-yalamanchi/ApexPlanet-Task1-Portfolio) | jahanavi-yalamanchi | 0 | 2026-07-24 |
 | [ApexPlanet-Task5-Portfolio](https://github.com/TEJA5465/ApexPlanet-Task5-Portfolio) | TEJA5465 | 0 | 2026-06-27 |
 | [ApexPortfolio](https://github.com/ApexSystemsOps/ApexPortfolio) | ApexSystemsOps | 0 | 2026-04-15 |
+| [apexstudio-portfolio](https://github.com/NOTGODLESSBE/apexstudio-portfolio) | NOTGODLESSBE | 0 | 2026-11-28 |
 | [ApexWebLabPortfolio](https://github.com/APEXWEBLABDEV/ApexWebLabPortfolio) | APEXWEBLABDEV | 0 | 2026-08-15 |
 | [aphelele.tafile-portfolio](https://github.com/aphelele-tafile/aphelele.tafile-portfolio) | aphelele-tafile | 0 | 2026-09-07 |
 | [Aphiwe-network-portfolio](https://github.com/Huvashen/Aphiwe-network-portfolio) | Huvashen | 0 | 2026-10-30 |
@@ -21490,6 +21509,7 @@
 | [aryabhushan-portfolio](https://github.com/aamarshgupta81-prog/aryabhushan-portfolio) | aamarshgupta81-prog | 0 | 2026-06-16 |
 | [aryabi_portfolio_website](https://github.com/Aryabi-5002/aryabi_portfolio_website) | Aryabi-5002 | 0 | 2026-07-30 |
 | [AryahPORTFOLIO](https://github.com/aracles03/AryahPORTFOLIO) | aracles03 | 0 | 2026-11-10 |
+| [aryakamat-portfolio.github.io](https://github.com/aryakamat-portfolio/aryakamat-portfolio.github.io) | aryakamat-portfolio | 0 | 2026-11-28 |
 | [AryaLolusare2712-FinPilot-AI_Portfolio_Tracker](https://github.com/AryaLolusare2712/AryaLolusare2712-FinPilot-AI_Portfolio_Tracker) | AryaLolusare2712 | 0 | 2026-05-17 |
 | [aryam-portfolio](https://github.com/ProAryam-X100/aryam-portfolio) | ProAryam-X100 | 0 | 2026-03-24 |
 | [aryamaan-portfolio](https://github.com/AryamaanDash/aryamaan-portfolio) | AryamaanDash | 0 | 2026-04-29 |
@@ -21791,6 +21811,7 @@
 | [ASE_Portfolio_2026](https://github.com/manderson33/ASE_Portfolio_2026) | manderson33 | 0 | 2026-03-06 |
 | [ASE_Portfolio_Discussion1](https://github.com/manderson33/ASE_Portfolio_Discussion1) | manderson33 | 0 | 2026-03-06 |
 | [ASE-CSIE-Portfolio](https://github.com/JustinNCK/ASE-CSIE-Portfolio) | JustinNCK | 0 | 2026-08-24 |
+| [Ase-Portfolio](https://github.com/lady-bug01/Ase-Portfolio) | lady-bug01 | 0 | 2026-11-28 |
 | [ASE-Portfolio-Acuyong](https://github.com/tin23123/ASE-Portfolio-Acuyong) | tin23123 | 0 | 2026-11-21 |
 | [ASE-Portfolio-Banatin](https://github.com/deb091/ASE-Portfolio-Banatin) | deb091 | 0 | 2026-11-20 |
 | [ASE-Portfolio-Cuison](https://github.com/mikacuison26-pixel/ASE-Portfolio-Cuison) | mikacuison26-pixel | 0 | 2026-11-21 |
@@ -23116,6 +23137,8 @@
 | [Aswini--mini-security-tool-portfolio](https://github.com/Ab-aswini/Aswini--mini-security-tool-portfolio) | Ab-aswini | 0 | 2026-08-15 |
 | [aswini-frontend-portfolio](https://github.com/Aswini-ox/aswini-frontend-portfolio) | Aswini-ox | 0 | 2026-03-30 |
 | [Aswini-portfolio](https://github.com/aswinisuresh1912-Dev/Aswini-portfolio) | aswinisuresh1912-Dev | 0 | 2026-07-20 |
+| [Aswini-portfolioclg](https://github.com/Aswini765/Aswini-portfolioclg) | Aswini765 | 0 | 2026-11-28 |
+| [Aswini-portfoliopm](https://github.com/Aswini765/Aswini-portfoliopm) | Aswini765 | 0 | 2026-11-28 |
 | [aswinidevi-portfolio](https://github.com/aswinidevimedisetti4-hub/aswinidevi-portfolio) | aswinidevimedisetti4-hub | 0 | 2026-06-06 |
 | [aswinkarthik-portfolio](https://github.com/logicmarkers-max/aswinkarthik-portfolio) | logicmarkers-max | 0 | 2026-07-12 |
 | [aswinkrishna-portfolio](https://github.com/aaswne/aswinkrishna-portfolio) | aaswne | 0 | 2026-05-06 |
@@ -23348,6 +23371,7 @@
 | [Athira_Prasad_Portfolio](https://github.com/athiraprasad7991-Devops-Engineer/Athira_Prasad_Portfolio) | athiraprasad7991-Devops-Engineer | 0 | 2026-10-20 |
 | [athira-portfolio](https://github.com/athira-anil2327/athira-portfolio) | athira-anil2327 | 0 | 2026-03-08 |
 | [Athira-portfolio](https://github.com/Athira-info/Athira-portfolio) | Athira-info | 0 | 2026-10-06 |
+| [Athira-Portfolio](https://github.com/Athiraca1/Athira-Portfolio) | Athiraca1 | 0 | 2026-11-28 |
 | [athira-portfolio-site](https://github.com/Athira-16/athira-portfolio-site) | Athira-16 | 0 | 2026-05-31 |
 | [athirah-portfolio](https://github.com/nurathirah07/athirah-portfolio) | nurathirah07 | 0 | 2026-11-26 |
 | [athirah-syaziyah-portfolio](https://github.com/szlyrfae/athirah-syaziyah-portfolio) | szlyrfae | 0 | 2026-11-24 |
@@ -24142,6 +24166,7 @@
 | [Autonomous-Portfolio-Rebalancing-Tax-Loss-Harvesting-Agent](https://github.com/boin-tarun-kumar/Autonomous-Portfolio-Rebalancing-Tax-Loss-Harvesting-Agent) | boin-tarun-kumar | 0 | 2026-11-27 |
 | [Autonomous-Portfolio-System](https://github.com/beingmushfiq/Autonomous-Portfolio-System) | beingmushfiq | 0 | 2026-03-07 |
 | [Autonomous-systems-Portfolio](https://github.com/Tizianovdzwet/Autonomous-systems-Portfolio) | Tizianovdzwet | 0 | 2026-03-12 |
+| [Autonomous-Wealth-Advisory-Portfolio-Management-Platform](https://github.com/boin-tarun-kumar/Autonomous-Wealth-Advisory-Portfolio-Management-Platform) | boin-tarun-kumar | 0 | 2026-11-28 |
 | [autonoms-portfolio](https://github.com/Omkar-Hundre/autonoms-portfolio) | Omkar-Hundre | 0 | 2026-06-25 |
 | [autonomy-sandbox](https://github.com/filipgrigorov-portfolio/autonomy-sandbox) | filipgrigorov-portfolio | 0 | 2026-08-31 |
 | [autonova-portfolio-website](https://github.com/Sreejith-nova/autonova-portfolio-website) | Sreejith-nova | 0 | 2026-03-19 |
@@ -27473,6 +27498,7 @@
 | [bayu-saputra-portfolio](https://github.com/mohbayusaputra/bayu-saputra-portfolio) | mohbayusaputra | 0 | 2026-11-07 |
 | [bayumlyn-portfolio](https://github.com/deranalabs/bayumlyn-portfolio) | deranalabs | 0 | 2026-03-13 |
 | [bayutirto-portfolio](https://github.com/bayutirto/bayutirto-portfolio) | bayutirto | 0 | 2026-10-12 |
+| [Bayzidbaky_portfolio](https://github.com/Bayzidbaky1/Bayzidbaky_portfolio) | Bayzidbaky1 | 0 | 2026-11-28 |
 | [Baz_Portfolio](https://github.com/who-is-baz/Baz_Portfolio) | who-is-baz | 0 | 2026-04-26 |
 | [Baz_portfolio](https://github.com/Bluetechk/Baz_portfolio) | Bluetechk | 0 | 2026-05-08 |
 | [bazamayuba-portfolio](https://github.com/bazamayuba-wq/bazamayuba-portfolio) | bazamayuba-wq | 0 | 2026-07-26 |
@@ -29000,6 +29026,8 @@
 | [bhuvaneshp-portfolio](https://github.com/BhuvaneshP-87/bhuvaneshp-portfolio) | BhuvaneshP-87 | 1 | 2026-03-12 |
 | [bhuvaneshwar-portfolio](https://github.com/bhuvaneeshwar/bhuvaneshwar-portfolio) | bhuvaneeshwar | 0 | 2026-03-17 |
 | [bhuvaneshwaran--portfolio](https://github.com/Bhuvaneshdarkfire/bhuvaneshwaran--portfolio) | Bhuvaneshdarkfire | 0 | 2026-06-18 |
+| [bhuvaneshwaran-portfolio](https://github.com/Bhuvaneshwaran2/bhuvaneshwaran-portfolio) | Bhuvaneshwaran2 | 0 | 2026-11-28 |
+| [Bhuvaneshwaran-S-portfolio](https://github.com/Bhuvaneshwaran2/Bhuvaneshwaran-S-portfolio) | Bhuvaneshwaran2 | 0 | 2026-11-28 |
 | [Bhuvaneshwari_Portfolio](https://github.com/bhuvanasubramaniyam26/Bhuvaneshwari_Portfolio) | bhuvanasubramaniyam26 | 0 | 2026-08-14 |
 | [Bhuvaneshwari-portfolio](https://github.com/Bhuvi0515tech/Bhuvaneshwari-portfolio) | Bhuvi0515tech | 0 | 2026-05-16 |
 | [bhuvaneshwari-portfolio](https://github.com/25al014-crypto/bhuvaneshwari-portfolio) | 25al014-crypto | 0 | 2026-11-14 |
@@ -31264,6 +31292,7 @@
 | [Brice-Dickey-Portfolio](https://github.com/xethln/Brice-Dickey-Portfolio) | xethln | 0 | 2026-04-29 |
 | [brice-portfolio](https://github.com/Bricec6/brice-portfolio) | Bricec6 | 0 | 2026-05-18 |
 | [brice-portfolio-src](https://github.com/caveman69/brice-portfolio-src) | caveman69 | 0 | 2026-07-29 |
+| [BriceMcRae-Development-Portfolio.io](https://github.com/bricemcrae2211/BriceMcRae-Development-Portfolio.io) | bricemcrae2211 | 0 | 2026-11-28 |
 | [bricemcraeMyPortfolioSite.github.io](https://github.com/bricemcrae2211/bricemcraeMyPortfolioSite.github.io) | bricemcrae2211 | 0 | 2026-11-21 |
 | [BRICEULRICH-forward-deployed-ai-portfolio.](https://github.com/mbamegbrice-lab/BRICEULRICH-forward-deployed-ai-portfolio.) | mbamegbrice-lab | 0 | 2026-11-18 |
 | [Brick-Breaker-Portfolio](https://github.com/NamePendingStudios/Brick-Breaker-Portfolio) | NamePendingStudios | 0 | 2026-03-05 |
@@ -33814,6 +33843,7 @@
 | [ccna-networking-labs-portfolio](https://github.com/isidrojp24/ccna-networking-labs-portfolio) | isidrojp24 | 0 | 2026-06-24 |
 | [CCNA-Networking-Portfolio](https://github.com/tonishajeffers/CCNA-Networking-Portfolio) | tonishajeffers | 0 | 2026-04-25 |
 | [ccna-networking-portfolio](https://github.com/cjbarnes29/ccna-networking-portfolio) | cjbarnes29 | 0 | 2026-05-22 |
+| [ccna-packet-tracer-portfolio](https://github.com/checkschoolemail1-lgtm/ccna-packet-tracer-portfolio) | checkschoolemail1-lgtm | 0 | 2026-11-28 |
 | [CCNA-Portfolio](https://github.com/Kevindez246/CCNA-Portfolio) | Kevindez246 | 0 | 2026-02-28 |
 | [ccna-portfolio](https://github.com/salongokante/ccna-portfolio) | salongokante | 0 | 2026-03-02 |
 | [CCNA-portfolio](https://github.com/Swetha-sys/CCNA-portfolio) | Swetha-sys | 0 | 2026-06-08 |
@@ -35021,6 +35051,7 @@
 | [chef-portfolio-2026](https://github.com/shamilovshamil793-wq/chef-portfolio-2026) | shamilovshamil793-wq | 0 | 2026-06-13 |
 | [chef-portfolio-showcase](https://github.com/porag188/chef-portfolio-showcase) | porag188 | 0 | 2026-06-03 |
 | [chef-rami-portfolio](https://github.com/yazankobari/chef-rami-portfolio) | yazankobari | 0 | 2026-09-07 |
+| [chefansheed-portfolio](https://github.com/chefanshid-web/chefansheed-portfolio) | chefanshid-web | 0 | 2026-11-28 |
 | [ChefArmyPortfolio](https://github.com/gelikadlcrz/ChefArmyPortfolio) | gelikadlcrz | 0 | 2026-06-01 |
 | [chefberke-portfolio](https://github.com/chefberke/chefberke-portfolio) | chefberke | 0 | 2026-08-06 |
 | [chefdossierPortfolio](https://github.com/chefDossier/chefdossierPortfolio) | chefDossier | 0 | 2026-03-31 |
@@ -36010,6 +36041,7 @@
 | [Christine-0927-portfolio](https://github.com/Christine-0927/Christine-0927-portfolio) | Christine-0927 | 0 | 2026-06-09 |
 | [christine-liu-portfolio](https://github.com/christineliu0221-tech/christine-liu-portfolio) | christineliu0221-tech | 0 | 2026-08-13 |
 | [christine-magluyan-portfolio](https://github.com/christinejeanmagluyan1-code/christine-magluyan-portfolio) | christinejeanmagluyan1-code | 0 | 2026-10-17 |
+| [Christine-Maravilla-Portfolio](https://github.com/ChristineM24/Christine-Maravilla-Portfolio) | ChristineM24 | 0 | 2026-11-28 |
 | [Christine-Pham-Portfolio](https://github.com/christinepham227/Christine-Pham-Portfolio) | christinepham227 | 0 | 2026-07-14 |
 | [christine-portfolio](https://github.com/christine-portfolio/christine-portfolio) | christine-portfolio | 0 | 2026-02-28 |
 | [Christine-Portfolio](https://github.com/chibbersimran99-lab/Christine-Portfolio) | chibbersimran99-lab | 0 | 2026-03-22 |
@@ -36027,6 +36059,7 @@
 | [christoph-emmert-portfolio](https://github.com/chrisdiss/christoph-emmert-portfolio) | chrisdiss | 0 | 2026-04-26 |
 | [christophe-dubuisson-portfolio](https://github.com/Chichi6625/christophe-dubuisson-portfolio) | Chichi6625 | 0 | 2026-08-15 |
 | [christophe-pauliac-portfolio](https://github.com/chrisdev56/christophe-pauliac-portfolio) | chrisdev56 | 0 | 2026-07-06 |
+| [christopher-academic-portfolio](https://github.com/Cnsackey50/christopher-academic-portfolio) | Cnsackey50 | 0 | 2026-11-28 |
 | [christopher-benn-portfolio](https://github.com/christopherbenn6/christopher-benn-portfolio) | christopherbenn6 | 0 | 2026-03-17 |
 | [Christopher-Cox-Portfolio](https://github.com/chrcox/Christopher-Cox-Portfolio) | chrcox | 0 | 2026-08-10 |
 | [christopher-cox-portfolio](https://github.com/iowacyp/christopher-cox-portfolio) | iowacyp | 0 | 2026-09-15 |
@@ -36903,6 +36936,7 @@
 | [clickguard-portfolio](https://github.com/sandrasambo1233-dev/clickguard-portfolio) | sandrasambo1233-dev | 0 | 2026-09-13 |
 | [clickiclick-portfolio](https://github.com/clickiclickweb-ui/clickiclick-portfolio) | clickiclickweb-ui | 0 | 2026-05-12 |
 | [clickKwanza-portfolio](https://github.com/Bruno-Correia-gize/clickKwanza-portfolio) | Bruno-Correia-gize | 0 | 2026-03-25 |
+| [Client_Dixit_Portfolio](https://github.com/DesaiDixit123/Client_Dixit_Portfolio) | DesaiDixit123 | 0 | 2026-11-28 |
 | [Client_Lawyer_portfolio](https://github.com/chandankoranga02/Client_Lawyer_portfolio) | chandankoranga02 | 0 | 2026-04-15 |
 | [Client_Neha_portfolio](https://github.com/Akanksha0217/Client_Neha_portfolio) | Akanksha0217 | 0 | 2026-03-06 |
 | [Client_Personal_portfolio](https://github.com/TharunDeekonda/Client_Personal_portfolio) | TharunDeekonda | 0 | 2026-05-02 |
@@ -38711,14 +38745,17 @@
 | [COMP229-MyPortfolio](https://github.com/Black-widow-codes/COMP229-MyPortfolio) | Black-widow-codes | 0 | 2026-11-04 |
 | [COMP229-MyPortfolio-Assignment-3](https://github.com/Rpennin1/COMP229-MyPortfolio-Assignment-3) | Rpennin1 | 0 | 2026-11-16 |
 | [COMP229-Portfolio](https://github.com/rnsnceman/COMP229-Portfolio) | rnsnceman | 0 | 2026-10-01 |
+| [comp229-portfolio](https://github.com/NicholasSiapass/comp229-portfolio) | NicholasSiapass | 0 | 2026-11-28 |
 | [COMP229-Portfolio-Assignment1](https://github.com/FelixLin789/COMP229-Portfolio-Assignment1) | FelixLin789 | 0 | 2026-09-26 |
 | [comp229-portfolio-assignment2](https://github.com/YaBoiZo/comp229-portfolio-assignment2) | YaBoiZo | 0 | 2026-10-14 |
 | [comp229-portfolio-assignment3](https://github.com/YaBoiZo/comp229-portfolio-assignment3) | YaBoiZo | 0 | 2026-11-08 |
+| [COMP229-Portfolio-Assignment3](https://github.com/FelixLin789/COMP229-Portfolio-Assignment3) | FelixLin789 | 0 | 2026-11-28 |
 | [COMP229-portfolio-assignment4](https://github.com/RobinLen4/COMP229-portfolio-assignment4) | RobinLen4 | 0 | 2026-04-19 |
 | [comp229-portfolio-auth-](https://github.com/jackorta1/comp229-portfolio-auth-) | jackorta1 | 0 | 2026-04-04 |
 | [COMP229-portfolio-final](https://github.com/RobinLen4/COMP229-portfolio-final) | RobinLen4 | 0 | 2026-04-19 |
 | [COMP229-Portfolio-Frontend](https://github.com/Bilhalv/COMP229-Portfolio-Frontend) | Bilhalv | 0 | 2026-09-27 |
 | [COMP229-portfolio-frontend-assignment3](https://github.com/RobinLen4/COMP229-portfolio-frontend-assignment3) | RobinLen4 | 0 | 2026-04-05 |
+| [comp229-portfolio-lab4](https://github.com/idelahnihad/comp229-portfolio-lab4) | idelahnihad | 0 | 2026-11-28 |
 | [comp229-portfolio-mern](https://github.com/vaancha/comp229-portfolio-mern) | vaancha | 0 | 2026-11-27 |
 | [COMP229-React-Portfolio](https://github.com/alyafaiuae/COMP229-React-Portfolio) | alyafaiuae | 0 | 2026-06-06 |
 | [comp229-react-portfolio](https://github.com/Emad979797/comp229-react-portfolio) | Emad979797 | 0 | 2026-09-25 |
@@ -39360,6 +39397,7 @@
 | [cortex3-portfolio](https://github.com/institutoveigacabral-maker/cortex3-portfolio) | institutoveigacabral-maker | 0 | 2026-03-12 |
 | [CORTEXA-Portfolio](https://github.com/sidrahoush/CORTEXA-Portfolio) | sidrahoush | 0 | 2026-08-17 |
 | [CORTEZ_Portfolio](https://github.com/johnnicolecortez231-beep/CORTEZ_Portfolio) | johnnicolecortez231-beep | 0 | 2026-07-20 |
+| [Cortez-Portfolio](https://github.com/angelacortezva-portfolio/Cortez-Portfolio) | angelacortezva-portfolio | 0 | 2026-11-28 |
 | [cortezo-oop-portfolio.io](https://github.com/iammarkyiii/cortezo-oop-portfolio.io) | iammarkyiii | 0 | 2026-04-26 |
 | [cortezo-portfolio](https://github.com/iammarkyiii/cortezo-portfolio) | iammarkyiii | 0 | 2026-10-28 |
 | [corvus-portfolio](https://github.com/abrahamomaka195-lang/corvus-portfolio) | abrahamomaka195-lang | 0 | 2026-08-24 |
@@ -40769,6 +40807,7 @@
 | [CS1-Portfolio](https://github.com/ghector14/CS1-Portfolio) | ghector14 | 0 | 2026-09-15 |
 | [cs1-portfolio](https://github.com/oliviadasenbrock/cs1-portfolio) | oliviadasenbrock | 0 | 2026-09-28 |
 | [CS100-power-up-portfolio](https://github.com/KantapatLarpsumritpol/CS100-power-up-portfolio) | KantapatLarpsumritpol | 0 | 2026-11-01 |
+| [cs103_portfolio_proj](https://github.com/andrew-guadiana/cs103_portfolio_proj) | andrew-guadiana | 0 | 2026-11-28 |
 | [cs1030-portfolio](https://github.com/koyjettra01/cs1030-portfolio) | koyjettra01 | 0 | 2026-09-29 |
 | [CS1030Portfolio](https://github.com/Brandonk95/CS1030Portfolio) | Brandonk95 | 0 | 2026-10-05 |
 | [CS110-Lab1-portfolio](https://github.com/Laiba-Nasir/CS110-Lab1-portfolio) | Laiba-Nasir | 0 | 2026-04-13 |
@@ -41898,6 +41937,7 @@
 | [CyberSec---Portfolio](https://github.com/Whitehat-blackclover/CyberSec---Portfolio) | Whitehat-blackclover | 0 | 2026-11-27 |
 | [CyberSec-Foundations-Portfolio](https://github.com/dextermiranda98-ui/CyberSec-Foundations-Portfolio) | dextermiranda98-ui | 0 | 2026-04-18 |
 | [CyberSec-IT-Portfolio](https://github.com/mitchellorion/CyberSec-IT-Portfolio) | mitchellorion | 0 | 2026-06-29 |
+| [cybersec-lab-portfolio](https://github.com/gener306-coder/cybersec-lab-portfolio) | gener306-coder | 0 | 2026-11-28 |
 | [CyberSec-MasterUOC-Portfolio](https://github.com/aletorres642/CyberSec-MasterUOC-Portfolio) | aletorres642 | 0 | 2026-11-01 |
 | [cybersec-portfolio](https://github.com/shaiene-rodrigues/cybersec-portfolio) | shaiene-rodrigues | 0 | 2026-02-27 |
 | [CyberSec-Portfolio](https://github.com/mephisthophere/CyberSec-Portfolio) | mephisthophere | 0 | 2026-03-07 |
@@ -42636,6 +42676,7 @@
 | [daisy-portfolio](https://github.com/verallodaisyjane-sketch/daisy-portfolio) | verallodaisyjane-sketch | 0 | 2026-06-20 |
 | [Daisy-s-Portfolio](https://github.com/AmoloWashington/Daisy-s-Portfolio) | AmoloWashington | 0 | 2026-03-13 |
 | [DAISY-s-Portfolio](https://github.com/arisiimadaisy-glitch/DAISY-s-Portfolio) | arisiimadaisy-glitch | 0 | 2026-08-26 |
+| [DaisyDuong_Portfolio](https://github.com/Scun18/DaisyDuong_Portfolio) | Scun18 | 0 | 2026-11-28 |
 | [daisyp-portfolio](https://github.com/daisyptime/daisyp-portfolio) | daisyptime | 0 | 2026-05-15 |
 | [daisyreyfrancisco--PORTFOLIO-on-CC101-CC102](https://github.com/daisyreyfrancisco30-cmyk/daisyreyfrancisco--PORTFOLIO-on-CC101-CC102) | daisyreyfrancisco30-cmyk | 0 | 2026-11-13 |
 | [daivanshika-portfolio](https://github.com/daivanshika0603-cloud/daivanshika-portfolio) | daivanshika0603-cloud | 0 | 2026-08-21 |
@@ -43282,6 +43323,7 @@
 | [danilo-ojeda-portfolio-website](https://github.com/On3n3xus/danilo-ojeda-portfolio-website) | On3n3xus | 0 | 2026-07-03 |
 | [danilo-portfolio](https://github.com/Zolinad/danilo-portfolio) | Zolinad | 0 | 2026-02-28 |
 | [Danilo-Portfolio](https://github.com/daniloboquet/Danilo-Portfolio) | daniloboquet | 1 | 2026-10-14 |
+| [danilo-portfolio-preview](https://github.com/ka4gma/danilo-portfolio-preview) | ka4gma | 0 | 2026-11-28 |
 | [DaniloWesley-portfolio](https://github.com/Danilo-Wesley/DaniloWesley-portfolio) | Danilo-Wesley | 0 | 2026-05-25 |
 | [danimtx--portfolio](https://github.com/danimtx/danimtx--portfolio) | danimtx | 0 | 2026-08-30 |
 | [daninogales30-portfolio](https://github.com/daninogales30/daninogales30-portfolio) | daninogales30 | 0 | 2026-07-01 |
@@ -46315,6 +46357,7 @@
 | [demo-portfolio-corporate](https://github.com/athena-cms-factory/demo-portfolio-corporate) | athena-cms-factory | 0 | 2026-03-13 |
 | [demo-portfolio-for-astro-free](https://github.com/VadimOswald/demo-portfolio-for-astro-free) | VadimOswald | 0 | 2026-06-23 |
 | [Demo-Portfolio-Frontend](https://github.com/heet-113/Demo-Portfolio-Frontend) | heet-113 | 0 | 2026-05-10 |
+| [Demo-Portfolio-HTML](https://github.com/Frtsnts10/Demo-Portfolio-HTML) | Frtsnts10 | 0 | 2026-11-28 |
 | [demo-portfolio-photo-video](https://github.com/Phoenix-Solutions-Digitales/demo-portfolio-photo-video) | Phoenix-Solutions-Digitales | 0 | 2026-07-18 |
 | [demo-portfolio-proejct](https://github.com/sandeep-kumar-270904/demo-portfolio-proejct) | sandeep-kumar-270904 | 0 | 2026-11-07 |
 | [Demo-Portfolio-project](https://github.com/Uzzwall-01/Demo-Portfolio-project) | Uzzwall-01 | 0 | 2026-04-26 |
@@ -48122,6 +48165,7 @@
 | [devox-portfolio](https://github.com/Omollodev/devox-portfolio) | Omollodev | 0 | 2026-04-20 |
 | [Devoxion-Portfolio](https://github.com/Joraaam/Devoxion-Portfolio) | Joraaam | 0 | 2026-07-08 |
 | [devpandey347-Portfolio](https://github.com/devpandey347/devpandey347-Portfolio) | devpandey347 | 0 | 2026-04-10 |
+| [devparadise-portfolio](https://github.com/ZulianLianzu/devparadise-portfolio) | ZulianLianzu | 0 | 2026-11-28 |
 | [DevPatel-Portfolio](https://github.com/DevPatel128/DevPatel-Portfolio) | DevPatel128 | 0 | 2026-04-25 |
 | [devpaul_react_portfolio](https://github.com/paulmrg-461/devpaul_react_portfolio) | paulmrg-461 | 1 | 2026-11-06 |
 | [devpeak-react-portfolio](https://github.com/Umairkhan603/devpeak-react-portfolio) | Umairkhan603 | 0 | 2026-04-17 |
@@ -49691,6 +49735,7 @@
 | [Dileep-Kumar-portfolio](https://github.com/DileepKumar9999/Dileep-Kumar-portfolio) | DileepKumar9999 | 0 | 2026-10-25 |
 | [dileep-kumar-portfolio-v2](https://github.com/dileep1142/dileep-kumar-portfolio-v2) | dileep1142 | 0 | 2026-05-31 |
 | [dileep-portfolio](https://github.com/dileepk878/dileep-portfolio) | dileepk878 | 0 | 2026-03-30 |
+| [Dileep-Portfolio](https://github.com/DileepMylapuri/Dileep-Portfolio) | DileepMylapuri | 0 | 2026-11-28 |
 | [Dileep-s-Portfolio](https://github.com/Dileep2412/Dileep-s-Portfolio) | Dileep2412 | 0 | 2026-06-23 |
 | [Dileepa-Anushan-Portfolio](https://github.com/dileepa-anushan/Dileepa-Anushan-Portfolio) | dileepa-anushan | 0 | 2026-09-09 |
 | [dileepa-portfolio](https://github.com/cit-24-02-0046-Dileepa/dileepa-portfolio) | cit-24-02-0046-Dileepa | 0 | 2026-05-29 |
@@ -52284,6 +52329,7 @@
 | [durgesh-portfolio](https://github.com/Durgesh-Vaigandla/durgesh-portfolio) | Durgesh-Vaigandla | 0 | 2026-04-18 |
 | [Durgesh-Portfolio](https://github.com/patildurgesh4455/Durgesh-Portfolio) | patildurgesh4455 | 0 | 2026-11-19 |
 | [durgesh-portfolio-](https://github.com/durgesh885/durgesh-portfolio-) | durgesh885 | 0 | 2026-06-12 |
+| [durgesh-portfolio-2026](https://github.com/durgesh55-design/durgesh-portfolio-2026) | durgesh55-design | 0 | 2026-11-28 |
 | [Durgesh-s-Portfolio](https://github.com/durgeshpanmand734-jpg/Durgesh-s-Portfolio) | durgeshpanmand734-jpg | 0 | 2026-05-07 |
 | [durgesh-singh-portfolio](https://github.com/kumaranshuk/durgesh-singh-portfolio) | kumaranshuk | 0 | 2026-07-23 |
 | [durgesh-unde-portfolio](https://github.com/durgeshunde/durgesh-unde-portfolio) | durgeshunde | 0 | 2026-08-24 |
@@ -53089,6 +53135,7 @@
 | [easttwist-Portfolio](https://github.com/east2wist/easttwist-Portfolio) | east2wist | 0 | 2026-04-20 |
 | [easwer-portfolio](https://github.com/prajun-shaji01/easwer-portfolio) | prajun-shaji01 | 0 | 2026-06-28 |
 | [Easy-boy-Personal-Portfolio](https://github.com/israeltomisin/Easy-boy-Personal-Portfolio) | israeltomisin | 0 | 2026-07-16 |
+| [Easy-Crafter-Photography-Portfolio-](https://github.com/TABARC-Code/Easy-Crafter-Photography-Portfolio-) | TABARC-Code | 0 | 2026-11-28 |
 | [easy-peezy-portfolio](https://github.com/mihikabakshi2008/easy-peezy-portfolio) | mihikabakshi2008 | 0 | 2026-11-07 |
 | [easy-portfolio](https://github.com/senitaflournoy-stack/easy-portfolio) | senitaflournoy-stack | 0 | 2026-03-12 |
 | [easy-portfolio-pose](https://github.com/poseicc/easy-portfolio-pose) | poseicc | 0 | 2026-05-11 |
@@ -55546,6 +55593,7 @@
 | [EmployeeDB-Portfolio](https://github.com/Pope-victor/EmployeeDB-Portfolio) | Pope-victor | 0 | 2026-05-15 |
 | [Employees-database-Analysis](https://github.com/ShivaniRajput-Portfolio/Employees-database-Analysis) | ShivaniRajput-Portfolio | 0 | 2026-08-11 |
 | [Employees-Provident-Fund-Portfolio](https://github.com/JK0611/Employees-Provident-Fund-Portfolio) | JK0611 | 0 | 2026-05-09 |
+| [empress-portfolio](https://github.com/zwebb21/empress-portfolio) | zwebb21 | 0 | 2026-11-28 |
 | [empty-but-live-portfolio](https://github.com/AmerBidzevic/empty-but-live-portfolio) | AmerBidzevic | 0 | 2026-07-17 |
 | [empty-portfolio](https://github.com/Aremuoluwatobi/empty-portfolio) | Aremuoluwatobi | 0 | 2026-08-22 |
 | [empyr-portfolio](https://github.com/4rcanity/empyr-portfolio) | 4rcanity | 0 | 2026-07-14 |
@@ -59592,6 +59640,7 @@
 | [fazalqadir-portfolio](https://github.com/Fazalqadir939/fazalqadir-portfolio) | Fazalqadir939 | 0 | 2026-05-22 |
 | [fazdane-portfolio-manager](https://github.com/ffazdane/fazdane-portfolio-manager) | ffazdane | 0 | 2026-04-17 |
 | [fazeelat-portfolio](https://github.com/fazilatminhas-glitch/fazeelat-portfolio) | fazilatminhas-glitch | 0 | 2026-06-20 |
+| [fazendinha-portfolio](https://github.com/Bruno-Deanin/fazendinha-portfolio) | Bruno-Deanin | 0 | 2026-11-28 |
 | [Fazi-Awan-Portfolio](https://github.com/faiziawan0001-cmd/Fazi-Awan-Portfolio) | faiziawan0001-cmd | 0 | 2026-08-11 |
 | [Fazil-Khan-Portfolio](https://github.com/fazilkhan2106/Fazil-Khan-Portfolio) | fazilkhan2106 | 0 | 2026-07-25 |
 | [fazil-personal-portfolio-](https://github.com/muhammedfazilvp/fazil-personal-portfolio-) | muhammedfazilvp | 0 | 2026-03-28 |
@@ -59674,6 +59723,7 @@
 | [fdap-portfolio](https://github.com/rpfe26/fdap-portfolio) | rpfe26 | 0 | 2026-03-14 |
 | [fdd-portfolio](https://github.com/Mariga-Rock/fdd-portfolio) | Mariga-Rock | 0 | 2026-07-06 |
 | [fde-ai-delivery-portfolio](https://github.com/chenbaitao88-ctrl/fde-ai-delivery-portfolio) | chenbaitao88-ctrl | 0 | 2026-09-07 |
+| [fde-ai-portfolio](https://github.com/eaglepython/fde-ai-portfolio) | eaglepython | 0 | 2026-11-28 |
 | [fde-ai-systems-portfolio](https://github.com/tiramitree/fde-ai-systems-portfolio) | tiramitree | 3 | 2026-06-01 |
 | [fde-chanaka-de-silva-portfolio](https://github.com/devchan/fde-chanaka-de-silva-portfolio) | devchan | 0 | 2026-07-16 |
 | [fde-delivery-portfolio](https://github.com/RaoMM/fde-delivery-portfolio) | RaoMM | 0 | 2026-08-18 |
@@ -60208,6 +60258,7 @@
 | [figma-portfolio-practice](https://github.com/NimaHosseinzadeh/figma-portfolio-practice) | NimaHosseinzadeh | 0 | 2026-06-21 |
 | [figma-portfolio-practicePublic](https://github.com/NimaHosseinzadeh/figma-portfolio-practicePublic) | NimaHosseinzadeh | 0 | 2026-06-21 |
 | [Figma-Portfolio-project](https://github.com/ananthika123/Figma-Portfolio-project) | ananthika123 | 0 | 2026-05-24 |
+| [figma-portfolio-project-261121](https://github.com/crissiepark5353/figma-portfolio-project-261121) | crissiepark5353 | 0 | 2026-11-28 |
 | [Figma-portfolio-website](https://github.com/sagorkhan2012/Figma-portfolio-website) | sagorkhan2012 | 0 | 2026-11-11 |
 | [figma-react-portfolio](https://github.com/qwerewqwerew/figma-react-portfolio) | qwerewqwerew | 0 | 2026-03-10 |
 | [figma-slides-portfolio](https://github.com/MattFinnis73/figma-slides-portfolio) | MattFinnis73 | 0 | 2026-03-12 |
@@ -61205,6 +61256,7 @@
 | [fivem-photography-portfolio](https://github.com/itsmarcdelacruz/fivem-photography-portfolio) | itsmarcdelacruz | 0 | 2026-06-14 |
 | [fivem-portfolio](https://github.com/rado398/fivem-portfolio) | rado398 | 0 | 2026-07-01 |
 | [fivem-script-portfolio](https://github.com/erkanyilmaz-dev/fivem-script-portfolio) | erkanyilmaz-dev | 0 | 2026-10-20 |
+| [fiver-fiverr-spreadsheet-portfolio-](https://github.com/mubashir091/fiver-fiverr-spreadsheet-portfolio-) | mubashir091 | 1 | 2026-11-28 |
 | [fiver-portfolio](https://github.com/krupal5758/fiver-portfolio) | krupal5758 | 0 | 2026-03-19 |
 | [Fiver-portfolio-](https://github.com/waheedjanjua717-eng/Fiver-portfolio-) | waheedjanjua717-eng | 0 | 2026-11-16 |
 | [Fiver-Portfolio-Awais-Haroon](https://github.com/Awais732006/Fiver-Portfolio-Awais-Haroon) | Awais732006 | 0 | 2026-04-03 |
@@ -61368,6 +61420,7 @@
 | [fleet-portfolio](https://github.com/benja85a/fleet-portfolio) | benja85a | 0 | 2026-08-31 |
 | [fleet-technology-data-automation-portfolio](https://github.com/Ejones904/fleet-technology-data-automation-portfolio) | Ejones904 | 0 | 2026-08-13 |
 | [FleetMind-Portfolio](https://github.com/WaleedMatrix/FleetMind-Portfolio) | WaleedMatrix | 0 | 2026-11-25 |
+| [fleety_portfolio](https://github.com/FleetyTStorm/fleety_portfolio) | FleetyTStorm | 0 | 2026-11-28 |
 | [FLENORY-JR-S-PORTFOLIO](https://github.com/Yllane17/FLENORY-JR-S-PORTFOLIO) | Yllane17 | 0 | 2026-05-12 |
 | [flet-portfolio](https://github.com/Queen-u/flet-portfolio) | Queen-u | 0 | 2026-06-16 |
 | [Flet-Portfolio-Website](https://github.com/Gulikua26/Flet-Portfolio-Website) | Gulikua26 | 0 | 2026-06-16 |
@@ -62444,16 +62497,19 @@
 | [freelance-portfolio-backend](https://github.com/jatin108-dev/freelance-portfolio-backend) | jatin108-dev | 0 | 2026-05-04 |
 | [freelance-portfolio-benchmarks](https://github.com/Albidox/freelance-portfolio-benchmarks) | Albidox | 0 | 2026-10-14 |
 | [freelance-portfolio-demo](https://github.com/maikkeru1/freelance-portfolio-demo) | maikkeru1 | 0 | 2026-07-05 |
+| [freelance-portfolio-laravel](https://github.com/hauzenberge/freelance-portfolio-laravel) | hauzenberge | 0 | 2026-11-28 |
 | [Freelance-Portfolio-Project](https://github.com/omegazyph/Freelance-Portfolio-Project) | omegazyph | 0 | 2026-04-22 |
 | [Freelance-Portfolio-Sample](https://github.com/IgnacioLuqueSanchez/Freelance-Portfolio-Sample) | IgnacioLuqueSanchez | 0 | 2026-05-24 |
 | [freelance-portfolio-showcase](https://github.com/pushprajsk309-code/freelance-portfolio-showcase) | pushprajsk309-code | 0 | 2026-11-18 |
 | [freelance-portfolio-site](https://github.com/AmrWhoever/freelance-portfolio-site) | AmrWhoever | 0 | 2026-10-16 |
 | [freelance-portfolio-sites](https://github.com/olaptev79-cmd/freelance-portfolio-sites) | olaptev79-cmd | 0 | 2026-05-24 |
+| [freelance-portfolio-symfony](https://github.com/hauzenberge/freelance-portfolio-symfony) | hauzenberge | 0 | 2026-11-28 |
 | [freelance-portfolio-templates](https://github.com/naveencodecloud/freelance-portfolio-templates) | naveencodecloud | 0 | 2026-03-15 |
 | [freelance-portfolio-testing](https://github.com/guncahv/freelance-portfolio-testing) | guncahv | 0 | 2026-11-13 |
 | [Freelance-Portfolio-Website](https://github.com/estalbernadette166-paj/Freelance-Portfolio-Website) | estalbernadette166-paj | 0 | 2026-05-24 |
 | [freelance-portfolio-website](https://github.com/Phang00/freelance-portfolio-website) | Phang00 | 0 | 2026-06-02 |
 | [Freelance-Portfolio-website](https://github.com/SarathDeveloper/Freelance-Portfolio-website) | SarathDeveloper | 0 | 2026-06-13 |
+| [freelance-portfolio-yii](https://github.com/hauzenberge/freelance-portfolio-yii) | hauzenberge | 0 | 2026-11-28 |
 | [Freelance-Portfolios](https://github.com/sakshammrrajsinghh/Freelance-Portfolios) | sakshammrrajsinghh | 0 | 2026-04-18 |
 | [freelance-portfolios](https://github.com/iArt0s/freelance-portfolios) | iArt0s | 0 | 2026-08-16 |
 | [freelance-python-portfolio](https://github.com/bapt5021/freelance-python-portfolio) | bapt5021 | 0 | 2026-11-13 |
@@ -63690,6 +63746,7 @@
 | [gaisce-gold-award-portfolio](https://github.com/antfoley/gaisce-gold-award-portfolio) | antfoley | 0 | 2026-03-03 |
 | [gaius-chanis-portfolio](https://github.com/chanis-hg/gaius-chanis-portfolio) | chanis-hg | 0 | 2026-10-11 |
 | [Gaius-Gana---Portfolio](https://github.com/gaiusshugaba/Gaius-Gana---Portfolio) | gaiusshugaba | 0 | 2026-09-15 |
+| [Gaius-Obimba-Portfolio](https://github.com/GaiusO/Gaius-Obimba-Portfolio) | GaiusO | 0 | 2026-11-28 |
 | [gaius-portfolio](https://github.com/Ayungcodes/gaius-portfolio) | Ayungcodes | 0 | 2026-06-15 |
 | [Gaius-portfolio](https://github.com/gaiuso33/Gaius-portfolio) | gaiuso33 | 1 | 2026-10-14 |
 | [gajalakshmi-portfolio](https://github.com/Gajamathi/gajalakshmi-portfolio) | Gajamathi | 0 | 2026-09-12 |
@@ -63860,6 +63917,7 @@
 | [Game-portfolio](https://github.com/arpitm169/Game-portfolio) | arpitm169 | 0 | 2026-04-07 |
 | [game-portfolio-](https://github.com/eyeajmal/game-portfolio-) | eyeajmal | 0 | 2026-07-13 |
 | [game-portfolio-html](https://github.com/PintsizeSquid/game-portfolio-html) | PintsizeSquid | 0 | 2026-04-14 |
+| [game-portfolio-netmarble-neo](https://github.com/GD-JM/game-portfolio-netmarble-neo) | GD-JM | 0 | 2026-11-28 |
 | [game-portfolio-player-insights](https://github.com/AstraaaQAQ/game-portfolio-player-insights) | AstraaaQAQ | 0 | 2026-05-07 |
 | [game-portfolio-site](https://github.com/MhWangZi/game-portfolio-site) | MhWangZi | 0 | 2026-07-08 |
 | [Game-Portfolio-Site](https://github.com/andlskyfallaju/Game-Portfolio-Site) | andlskyfallaju | 0 | 2026-09-17 |
@@ -64690,6 +64748,7 @@
 | [gedaliah-portfolio](https://github.com/gedaliahs/gedaliah-portfolio) | gedaliahs | 0 | 2026-04-15 |
 | [geddy-portfolio-project](https://github.com/Geddydukes/geddy-portfolio-project) | Geddydukes | 0 | 2026-09-15 |
 | [gedejhonaiza-portfolio](https://github.com/gedejhonaiza-byte/gedejhonaiza-portfolio) | gedejhonaiza-byte | 0 | 2026-09-19 |
+| [gedeon-cybersecurity-portfolio.](https://github.com/tshabolagedeon56-cmd/gedeon-cybersecurity-portfolio.) | tshabolagedeon56-cmd | 0 | 2026-11-28 |
 | [gedi-creative-lab-portfolio](https://github.com/Geddi223/gedi-creative-lab-portfolio) | Geddi223 | 0 | 2026-10-30 |
 | [gedimino-portfolio](https://github.com/GediminasJs/gedimino-portfolio) | GediminasJs | 0 | 2026-04-17 |
 | [gedion-portfolio](https://github.com/ayushgaire/gedion-portfolio) | ayushgaire | 0 | 2026-05-19 |
@@ -71430,6 +71489,7 @@
 | [healthcare-python-capstone-portfolio](https://github.com/Mk-Ref28/healthcare-python-capstone-portfolio) | Mk-Ref28 | 0 | 2026-05-26 |
 | [healthcare-qa-portfolio](https://github.com/Nanghomnoonaye/healthcare-qa-portfolio) | Nanghomnoonaye | 0 | 2026-07-09 |
 | [Healthcare-QA-Portfolio](https://github.com/Motherslove/Healthcare-QA-Portfolio) | Motherslove | 0 | 2026-09-22 |
+| [healthcare-rcm-portfolio](https://github.com/aseef2254-source/healthcare-rcm-portfolio) | aseef2254-source | 0 | 2026-11-28 |
 | [Healthcare-RCM-Workflow-Implementation-Project-Management-Portfolio](https://github.com/sadat9441/Healthcare-RCM-Workflow-Implementation-Project-Management-Portfolio) | sadat9441 | 0 | 2026-11-20 |
 | [healthcare-snowflake-dbt-portfolio](https://github.com/LucianaRocha/healthcare-snowflake-dbt-portfolio) | LucianaRocha | 1 | 2026-04-28 |
 | [healthcare-software-portfolio](https://github.com/cristianbritos/healthcare-software-portfolio) | cristianbritos | 0 | 2026-06-08 |
@@ -72323,6 +72383,7 @@
 | [hids-portfolio](https://github.com/StephAraki/hids-portfolio) | StephAraki | 0 | 2026-07-06 |
 | [Hidya-portfolio](https://github.com/MediVoy/Hidya-portfolio) | MediVoy | 0 | 2026-06-27 |
 | [hien-portfolio](https://github.com/hientrantt35/hien-portfolio) | hientrantt35 | 0 | 2026-09-25 |
+| [Hien-portfolio](https://github.com/nahir534-th/Hien-portfolio) | nahir534-th | 0 | 2026-11-28 |
 | [hiencaothanhha_portfolio](https://github.com/Hiencaothanhha/hiencaothanhha_portfolio) | Hiencaothanhha | 0 | 2026-04-15 |
 | [HiepPortfolio](https://github.com/ThanhHiepNguyen/HiepPortfolio) | ThanhHiepNguyen | 0 | 2026-03-14 |
 | [hierarchical-clustering-portfolio-selector](https://github.com/andresbetov/hierarchical-clustering-portfolio-selector) | andresbetov | 0 | 2026-09-10 |
@@ -75111,6 +75172,7 @@
 | [IAmTooLazyToFullySetupAnActualPersonalWebsiteAndPortfolio](https://github.com/TRget88/IAmTooLazyToFullySetupAnActualPersonalWebsiteAndPortfolio) | TRget88 | 0 | 2026-07-08 |
 | [iamtufan-my-portfolio](https://github.com/iamtufan/iamtufan-my-portfolio) | iamtufan | 0 | 2026-04-12 |
 | [iamveektoria-portfolio](https://github.com/SpeedyClesh/iamveektoria-portfolio) | SpeedyClesh | 0 | 2026-05-16 |
+| [iamvicky-portfolio](https://github.com/vickyymosafan/iamvicky-portfolio) | vickyymosafan | 0 | 2026-11-28 |
 | [iamvincentnam_portfolio](https://github.com/iamvincentnam/iamvincentnam_portfolio) | iamvincentnam | 0 | 2026-08-12 |
 | [iamwgp-portfolio](https://github.com/wgomezpr46/iamwgp-portfolio) | wgomezpr46 | 0 | 2026-06-25 |
 | [iamxenon404-portfolio](https://github.com/iamxenon404/iamxenon404-portfolio) | iamxenon404 | 1 | 2026-06-09 |
@@ -75287,6 +75349,7 @@
 | [ibm-devops-portfolio-project](https://github.com/KamaleshRanganathan/ibm-devops-portfolio-project) | KamaleshRanganathan | 0 | 2026-07-03 |
 | [ibm-ethical-hacking-learning-portfolio](https://github.com/abdulwahidchohan/ibm-ethical-hacking-learning-portfolio) | abdulwahidchohan | 0 | 2026-08-24 |
 | [IBM-Ethical-Hacking-with-Open-Source-Tools-Portfolio](https://github.com/Willie-Conway/IBM-Ethical-Hacking-with-Open-Source-Tools-Portfolio) | Willie-Conway | 1 | 2026-08-03 |
+| [ibm-fullstack-portfolio](https://github.com/jpssjblue/ibm-fullstack-portfolio) | jpssjblue | 0 | 2026-11-28 |
 | [ibm-hr-analytics-portfolio](https://github.com/mademaso/ibm-hr-analytics-portfolio) | mademaso | 0 | 2026-09-29 |
 | [ibm-html-portfolio-final-project](https://github.com/ninercl/ibm-html-portfolio-final-project) | ninercl | 0 | 2026-05-27 |
 | [ibm-internship-portfolio](https://github.com/nicholezheng111/ibm-internship-portfolio) | nicholezheng111 | 0 | 2026-07-22 |
@@ -75556,6 +75619,7 @@
 | [ide-portfolio-website](https://github.com/EvanGit09/ide-portfolio-website) | EvanGit09 | 0 | 2026-04-07 |
 | [idea_forge-portfolio](https://github.com/ahmedwasim1070/idea_forge-portfolio) | ahmedwasim1070 | 0 | 2026-09-15 |
 | [Idea_MyPortfolio_project](https://github.com/asmakamble/Idea_MyPortfolio_project) | asmakamble | 0 | 2026-05-13 |
+| [idea-ai-product-portfolio](https://github.com/superdogdoghead/idea-ai-product-portfolio) | superdogdoghead | 0 | 2026-11-28 |
 | [idea-of-portfolio](https://github.com/Flipp404/idea-of-portfolio) | Flipp404 | 0 | 2026-10-15 |
 | [idea-portfolio](https://github.com/SaraAxelbaum/idea-portfolio) | SaraAxelbaum | 0 | 2026-05-01 |
 | [ideal-octo-portfolio](https://github.com/EliasLd/ideal-octo-portfolio) | EliasLd | 0 | 2026-08-29 |
@@ -77499,6 +77563,7 @@
 | [Investfood_SRL_Portfolio](https://github.com/wlmzz/Investfood_SRL_Portfolio) | wlmzz | 0 | 2026-05-23 |
 | [Investigation-portfolio](https://github.com/patriciasaucedo888/Investigation-portfolio) | patriciasaucedo888 | 0 | 2026-03-04 |
 | [investigation-portfolio](https://github.com/leratomakhasane/investigation-portfolio) | leratomakhasane | 0 | 2026-05-25 |
+| [Investigation-Portfolio](https://github.com/EclipseManic/Investigation-Portfolio) | EclipseManic | 1 | 2026-11-28 |
 | [InvestInsights-Portfolio](https://github.com/daanrijnberk0802/InvestInsights-Portfolio) | daanrijnberk0802 | 0 | 2026-04-29 |
 | [investmen-portfolio-max](https://github.com/d919808813z/investmen-portfolio-max) | d919808813z | 0 | 2026-06-01 |
 | [Investment_Portfolio](https://github.com/the-boss-omega/Investment_Portfolio) | the-boss-omega | 0 | 2026-03-09 |
@@ -77673,6 +77738,8 @@
 | [InvestorPortfolioLuSE](https://github.com/CCMuleba/InvestorPortfolioLuSE) | CCMuleba | 0 | 2026-03-05 |
 | [InvestPortfolio](https://github.com/AnnVatlina/InvestPortfolio) | AnnVatlina | 0 | 2026-04-05 |
 | [InvestPro-Portfolio](https://github.com/DiegoLCirqueira/InvestPro-Portfolio) | DiegoLCirqueira | 0 | 2026-10-25 |
+| [investpro-portfolio-demo](https://github.com/251020900948-art/investpro-portfolio-demo) | 251020900948-art | 0 | 2026-11-28 |
+| [investpro-template-portfolio](https://github.com/251020900948-art/investpro-template-portfolio) | 251020900948-art | 0 | 2026-11-28 |
 | [investtrack-portfolio](https://github.com/tthiagomaciel/investtrack-portfolio) | tthiagomaciel | 0 | 2026-06-08 |
 | [Invexa---Ads-Portfolio](https://github.com/Invexa-MD/Invexa---Ads-Portfolio) | Invexa-MD | 0 | 2026-04-20 |
 | [Invision-Portfolio](https://github.com/rcweston90/Invision-Portfolio) | rcweston90 | 0 | 2026-05-16 |
@@ -78064,6 +78131,7 @@
 | [IS-for-My-Portfolio](https://github.com/VUTSHILA11/IS-for-My-Portfolio) | VUTSHILA11 | 0 | 2026-05-04 |
 | [is-ibrahim-saeed-portfolio](https://github.com/ebrahemsaeed911-lang/is-ibrahim-saeed-portfolio) | ebrahemsaeed911-lang | 0 | 2026-09-27 |
 | [is-jun-portfolio](https://github.com/JunCodera1/is-jun-portfolio) | JunCodera1 | 0 | 2026-11-12 |
+| [IS-Lab-Portfolio](https://github.com/JagatKC-0506/IS-Lab-Portfolio) | JagatKC-0506 | 0 | 2026-11-28 |
 | [is-portfolio](https://github.com/ishansaxena012/is-portfolio) | ishansaxena012 | 0 | 2026-05-05 |
 | [is117-ai-career-portfolio](https://github.com/cf344/is117-ai-career-portfolio) | cf344 | 0 | 2026-11-19 |
 | [is117-career-engineered-portfolio](https://github.com/AllwynThomas/is117-career-engineered-portfolio) | AllwynThomas | 0 | 2026-05-15 |
@@ -81496,6 +81564,7 @@
 | [jayeshmarathe-portfolio](https://github.com/jayeshmark/jayeshmarathe-portfolio) | jayeshmark | 0 | 2026-10-24 |
 | [jayeshrakhonde-portfolio](https://github.com/Jayeshrakhonde07/jayeshrakhonde-portfolio) | Jayeshrakhonde07 | 0 | 2026-09-25 |
 | [jayfarfan-portfolio](https://github.com/JayFarfan-Designer/jayfarfan-portfolio) | JayFarfan-Designer | 0 | 2026-10-12 |
+| [Jayfons-Malaran-Portfolio](https://github.com/malaranjayfons0731-pixel/Jayfons-Malaran-Portfolio) | malaranjayfons0731-pixel | 0 | 2026-11-28 |
 | [jayfour-portfolio](https://github.com/jemsi-442/jayfour-portfolio) | jemsi-442 | 1 | 2026-03-13 |
 | [Jayganesh_portfolio](https://github.com/jayganesh8815/Jayganesh_portfolio) | jayganesh8815 | 0 | 2026-07-19 |
 | [jayghosh-portfolio](https://github.com/jayghoshgudale/jayghosh-portfolio) | jayghoshgudale | 0 | 2026-05-10 |
@@ -81852,6 +81921,7 @@
 | [jed-portfolio](https://github.com/jgan807/jed-portfolio) | jgan807 | 0 | 2026-03-19 |
 | [Jed-Portfolio](https://github.com/jediii16/Jed-Portfolio) | jediii16 | 0 | 2026-04-14 |
 | [Jed-Ramos-Portfolio](https://github.com/jedeye143/Jed-Ramos-Portfolio) | jedeye143 | 0 | 2026-07-21 |
+| [Jed-Ramos-Web-Dev-Portfolio](https://github.com/jedeye143/Jed-Ramos-Web-Dev-Portfolio) | jedeye143 | 0 | 2026-11-28 |
 | [Jed-s-Portfolio-Website](https://github.com/printf-Jed/Jed-s-Portfolio-Website) | printf-Jed | 0 | 2026-05-12 |
 | [jed-salanguit-portfolio](https://github.com/jedsalanguit/jed-salanguit-portfolio) | jedsalanguit | 0 | 2026-04-20 |
 | [jedev-portfolio](https://github.com/jediii17/jedev-portfolio) | jediii17 | 0 | 2026-03-02 |
@@ -82083,6 +82153,7 @@
 | [Jeirsiniho-portfolio](https://github.com/jeis018/Jeirsiniho-portfolio) | jeis018 | 0 | 2026-03-01 |
 | [Jeiya-Portfolio](https://github.com/K-Jeiya/Jeiya-Portfolio) | K-Jeiya | 0 | 2026-09-30 |
 | [jeizel-portfolio](https://github.com/jeiz7/jeizel-portfolio) | jeiz7 | 0 | 2026-07-17 |
+| [jejak-portfolio-v2](https://github.com/Muhammad-Zaidan/jejak-portfolio-v2) | Muhammad-Zaidan | 0 | 2026-11-28 |
 | [jejen-portfolio](https://github.com/jejen-dev/jejen-portfolio) | jejen-dev | 0 | 2026-07-10 |
 | [Jek---Portfolio](https://github.com/jrckuntvrs/Jek---Portfolio) | jrckuntvrs | 0 | 2026-08-29 |
 | [jek-portfolio](https://github.com/JeremiahOrpilla/jek-portfolio) | JeremiahOrpilla | 0 | 2026-03-11 |
@@ -88959,6 +89030,7 @@
 | [keithrodney_portfolio](https://github.com/kayerodneytech/keithrodney_portfolio) | kayerodneytech | 1 | 2026-07-20 |
 | [KeithVillanuevaPortfolio](https://github.com/ckeithvillanueva/KeithVillanuevaPortfolio) | ckeithvillanueva | 0 | 2026-04-03 |
 | [keizer-portfolio](https://github.com/KeizerSec/keizer-portfolio) | KeizerSec | 0 | 2026-04-14 |
+| [keizonguyen.portfolio](https://github.com/itztrungggg/keizonguyen.portfolio) | itztrungggg | 0 | 2026-11-28 |
 | [KEJ-Portfolio](https://github.com/EunjiKU/KEJ-Portfolio) | EunjiKU | 0 | 2026-04-13 |
 | [kejalakshmi_portfolio](https://github.com/keja202/kejalakshmi_portfolio) | keja202 | 0 | 2026-02-28 |
 | [kejalakshmi.portfolio.com](https://github.com/keja202/kejalakshmi.portfolio.com) | keja202 | 0 | 2026-02-28 |
@@ -89076,6 +89148,7 @@
 | [kelvyn-portfolio](https://github.com/kelvyncoprodutor-crypto/kelvyn-portfolio) | kelvyncoprodutor-crypto | 0 | 2026-04-25 |
 | [kemal-portfolio](https://github.com/kemalpolatyalcin/kemal-portfolio) | kemalpolatyalcin | 0 | 2026-04-29 |
 | [Kemal-Portfolio-](https://github.com/kemalabdi421-sys/Kemal-Portfolio-) | kemalabdi421-sys | 0 | 2026-07-10 |
+| [kemar-portfolio](https://github.com/kxngmvles/kemar-portfolio) | kxngmvles | 0 | 2026-11-28 |
 | [KeMar1e-s-Portfolio](https://github.com/KeMar1e/KeMar1e-s-Portfolio) | KeMar1e | 0 | 2026-05-05 |
 | [kemari-website-ui-portfolio](https://github.com/hwl1117/kemari-website-ui-portfolio) | hwl1117 | 0 | 2026-07-15 |
 | [kemati-portfolio](https://github.com/kematioliver-m/kemati-portfolio) | kematioliver-m | 0 | 2026-05-24 |
@@ -90588,6 +90661,7 @@
 | [kinsuPortfolio](https://github.com/ashmit1110/kinsuPortfolio) | ashmit1110 | 0 | 2026-09-03 |
 | [kintaro-portfolio](https://github.com/thegobimahato/kintaro-portfolio) | thegobimahato | 0 | 2026-07-15 |
 | [kintone-portfolio](https://github.com/natsuyo-ok/kintone-portfolio) | natsuyo-ok | 0 | 2026-10-14 |
+| [Kintux-portfolio](https://github.com/ob-cell/Kintux-portfolio) | ob-cell | 0 | 2026-11-28 |
 | [Kintux-portfolio-](https://github.com/ob-cell/Kintux-portfolio-) | ob-cell | 0 | 2026-03-05 |
 | [Kinuriu-Portfolio](https://github.com/kinuriu/Kinuriu-Portfolio) | kinuriu | 0 | 2026-08-19 |
 | [Kinyanjui-portfolio.github.io](https://github.com/muhia8943/Kinyanjui-portfolio.github.io) | muhia8943 | 0 | 2026-05-03 |
@@ -91953,6 +92027,7 @@
 | [krislyn-portfolio](https://github.com/krismcnair/krislyn-portfolio) | krismcnair | 0 | 2026-03-17 |
 | [Krislyn-Villanueva-Portfolio](https://github.com/kkvillanueva/Krislyn-Villanueva-Portfolio) | kkvillanueva | 0 | 2026-05-20 |
 | [Krislynm-portfolio](https://github.com/krismcnair/Krislynm-portfolio) | krismcnair | 0 | 2026-03-17 |
+| [Krisna---Portfolio-Baru](https://github.com/Oceload/Krisna---Portfolio-Baru) | Oceload | 0 | 2026-11-28 |
 | [krisna-portfolio](https://github.com/krisna-dwipayana/krisna-portfolio) | krisna-dwipayana | 0 | 2026-05-22 |
 | [Krisna-Portfolio](https://github.com/ajddbsm/Krisna-Portfolio) | ajddbsm | 0 | 2026-09-09 |
 | [krisnaefxPortfolio](https://github.com/KrishnaKurmi/krisnaefxPortfolio) | KrishnaKurmi | 0 | 2026-10-24 |
@@ -92790,6 +92865,7 @@
 | [kwaja-portfolio](https://github.com/kwajaconnects/kwaja-portfolio) | kwajaconnects | 0 | 2026-04-04 |
 | [kwak-jahyang-portfolio](https://github.com/rhkrwkgid/kwak-jahyang-portfolio) | rhkrwkgid | 0 | 2026-08-04 |
 | [kwakbeomseok-portfolio](https://github.com/dpswps/kwakbeomseok-portfolio) | dpswps | 0 | 2026-06-23 |
+| [kwakina-portfolio](https://github.com/inscook12/kwakina-portfolio) | inscook12 | 0 | 2026-11-28 |
 | [kwaku-portfolio](https://github.com/JackRhaxsage/kwaku-portfolio) | JackRhaxsage | 0 | 2026-05-21 |
 | [kwame_portfolio](https://github.com/kwameadobaw/kwame_portfolio) | kwameadobaw | 1 | 2026-05-07 |
 | [kwame-portfolio](https://github.com/kopoku89/kwame-portfolio) | kopoku89 | 0 | 2026-02-28 |
@@ -94503,6 +94579,7 @@
 | [leeparang-portfolio](https://github.com/a01084812159-oss/leeparang-portfolio) | a01084812159-oss | 0 | 2026-08-21 |
 | [LeePortfolio](https://github.com/gableee/LeePortfolio) | gableee | 0 | 2026-11-11 |
 | [Leera-Portfolio](https://github.com/ItsLeera/Leera-Portfolio) | ItsLeera | 0 | 2026-11-15 |
+| [leerick-portfolio](https://github.com/OlatundeOlabanj/leerick-portfolio) | OlatundeOlabanj | 0 | 2026-11-28 |
 | [leerob-portfolio](https://github.com/Taki7980/leerob-portfolio) | Taki7980 | 0 | 2026-10-25 |
 | [leesemin-portfolio](https://github.com/smnm1998/leesemin-portfolio) | smnm1998 | 0 | 2026-08-17 |
 | [leeseo-portfolio](https://github.com/devseoz/leeseo-portfolio) | devseoz | 0 | 2026-03-28 |
@@ -95918,6 +95995,7 @@
 | [Little-school-portfolio](https://github.com/jayamurugan31/Little-school-portfolio) | jayamurugan31 | 0 | 2026-05-17 |
 | [little-therasa-portfolio](https://github.com/little2027/little-therasa-portfolio) | little2027 | 0 | 2026-05-07 |
 | [littleDuckPortfolio](https://github.com/mdavis71103/littleDuckPortfolio) | mdavis71103 | 0 | 2026-03-13 |
+| [LittleOS-Portfolio-WebOS](https://github.com/NexnBased/LittleOS-Portfolio-WebOS) | NexnBased | 0 | 2026-11-28 |
 | [litvm-builder-portfolio](https://github.com/itsabhishekgup/litvm-builder-portfolio) | itsabhishekgup | 0 | 2026-08-03 |
 | [liu_hualin_portfolio_v5](https://github.com/SeasonWen/liu_hualin_portfolio_v5) | SeasonWen | 0 | 2026-08-21 |
 | [liu-changsheng-portfolio](https://github.com/liucs-xanny/liu-changsheng-portfolio) | liucs-xanny | 0 | 2026-06-26 |
@@ -96982,6 +97060,7 @@
 | [low-vol-to-portfolio](https://github.com/piinghel/low-vol-to-portfolio) | piinghel | 0 | 2026-08-17 |
 | [Low-Volatility-Quality-Portfolio-Project](https://github.com/harrysimons70-a11y/Low-Volatility-Quality-Portfolio-Project) | harrysimons70-a11y | 0 | 2026-11-03 |
 | [LowAndNoCodePortfolioFinal](https://github.com/an677531/LowAndNoCodePortfolioFinal) | an677531 | 0 | 2026-04-21 |
+| [Lowkey_Studio_Portfolio](https://github.com/KelwinDani/Lowkey_Studio_Portfolio) | KelwinDani | 0 | 2026-11-28 |
 | [lowlevel-portfolio](https://github.com/nouretienne/lowlevel-portfolio) | nouretienne | 0 | 2026-08-11 |
 | [LowLiana-portfolio](https://github.com/xx-3-xx/LowLiana-portfolio) | xx-3-xx | 0 | 2026-03-10 |
 | [LowSoul-s-portfolio](https://github.com/lowsoul-exe/LowSoul-s-portfolio) | lowsoul-exe | 0 | 2026-03-30 |
@@ -99101,6 +99180,7 @@
 | [Maheswaran-Portfolio](https://github.com/mahes0709-tech/Maheswaran-Portfolio) | mahes0709-tech | 0 | 2026-04-01 |
 | [maheswaran-portfolio](https://github.com/mahes-2305/maheswaran-portfolio) | mahes-2305 | 0 | 2026-05-12 |
 | [Maheswari_R_J_Portfolio](https://github.com/Maheswari-23/Maheswari_R_J_Portfolio) | Maheswari-23 | 0 | 2026-05-06 |
+| [Maheswari-Pinneti-Portfolio](https://github.com/maheswari-pinneti/Maheswari-Pinneti-Portfolio) | maheswari-pinneti | 0 | 2026-11-28 |
 | [maheswari-portfolio](https://github.com/penumuru123/maheswari-portfolio) | penumuru123 | 0 | 2026-04-24 |
 | [maheswari-portfolio-](https://github.com/atlurimaheswari27-lab/maheswari-portfolio-) | atlurimaheswari27-lab | 0 | 2026-05-25 |
 | [MaheswarReddy-portfolio](https://github.com/MaheswarReddyy/MaheswarReddy-portfolio) | MaheswarReddyy | 0 | 2026-03-15 |
@@ -99119,6 +99199,7 @@
 | [MahfuzPortfolio](https://github.com/mahfuzrx/MahfuzPortfolio) | mahfuzrx | 0 | 2026-08-04 |
 | [Mahi_Portfolio](https://github.com/23bsm038-Mahi/Mahi_Portfolio) | 23bsm038-Mahi | 0 | 2026-05-21 |
 | [Mahi-Karim-Portfolio](https://github.com/mkarim06/Mahi-Karim-Portfolio) | mkarim06 | 0 | 2026-08-04 |
+| [mahi-mindscape-portfolio](https://github.com/mahi07-coder/mahi-mindscape-portfolio) | mahi07-coder | 0 | 2026-11-28 |
 | [Mahi-Portfolio](https://github.com/mahi8026/Mahi-Portfolio) | mahi8026 | 0 | 2026-03-05 |
 | [mahi-portfolio](https://github.com/Mahi-Gupta-1437/mahi-portfolio) | Mahi-Gupta-1437 | 0 | 2026-03-15 |
 | [Mahi-portfolio](https://github.com/sharfuddinmahi/Mahi-portfolio) | sharfuddinmahi | 0 | 2026-07-11 |
@@ -99192,6 +99273,7 @@
 | [Mahiuddin-Abdullah-Personal-Portfolio](https://github.com/mahiuddinabdullah/Mahiuddin-Abdullah-Personal-Portfolio) | mahiuddinabdullah | 0 | 2026-03-28 |
 | [Mahiuddin-Abdullah-Personal-Portfolio-Demo](https://github.com/mahiuddinabdullah/Mahiuddin-Abdullah-Personal-Portfolio-Demo) | mahiuddinabdullah | 0 | 2026-03-28 |
 | [mahj-portfolio](https://github.com/DFong298/mahj-portfolio) | DFong298 | 0 | 2026-08-08 |
+| [mahjong-portfolio](https://github.com/jjh7757/mahjong-portfolio) | jjh7757 | 0 | 2026-11-28 |
 | [mahlangu-portfolio-archive](https://github.com/Musamahlangu1977/mahlangu-portfolio-archive) | Musamahlangu1977 | 0 | 2026-08-09 |
 | [mahlatse-portfolio](https://github.com/mahlatse-code/mahlatse-portfolio) | mahlatse-code | 0 | 2026-07-09 |
 | [mahlatse-portfolio-project](https://github.com/hlatsiboy113-png/mahlatse-portfolio-project) | hlatsiboy113-png | 0 | 2026-04-28 |
@@ -104612,6 +104694,7 @@
 | [melissa.portfolio](https://github.com/melissa0102/melissa.portfolio) | melissa0102 | 0 | 2026-10-28 |
 | [melissapereira-portfolio](https://github.com/Melpscosta/melissapereira-portfolio) | Melpscosta | 0 | 2026-04-30 |
 | [melissaPortfolio](https://github.com/mellcosta/melissaPortfolio) | mellcosta | 0 | 2026-07-07 |
+| [meliza_portfolio](https://github.com/Meliza-cmd/meliza_portfolio) | Meliza-cmd | 0 | 2026-11-28 |
 | [melkamu-personal-portfolio](https://github.com/Melkamu777/melkamu-personal-portfolio) | Melkamu777 | 0 | 2026-11-24 |
 | [melky-portfolio](https://github.com/melkyfb/melky-portfolio) | melkyfb | 0 | 2026-06-28 |
 | [mell-portfolio](https://github.com/msanchezm9714-lgtm/mell-portfolio) | msanchezm9714-lgtm | 0 | 2026-11-22 |
@@ -105856,6 +105939,7 @@
 | [michaella-dionisio-portfolio](https://github.com/michanuel1/michaella-dionisio-portfolio) | michanuel1 | 0 | 2026-08-04 |
 | [MichaellaJohnson.portfolio](https://github.com/MichaellaJohnson/MichaellaJohnson.portfolio) | MichaellaJohnson | 0 | 2026-08-08 |
 | [michaellesmez-portfolio](https://github.com/MichaelLesmez/michaellesmez-portfolio) | MichaelLesmez | 0 | 2026-03-17 |
+| [MichaelLouisPortfolio](https://github.com/michaellouis-cyberbacker/MichaelLouisPortfolio) | michaellouis-cyberbacker | 0 | 2026-11-28 |
 | [michaellunzer-portfolio](https://github.com/michaellunzer/michaellunzer-portfolio) | michaellunzer | 0 | 2026-05-12 |
 | [michaelmillena-portfolio](https://github.com/mykhelmillena-cyber/michaelmillena-portfolio) | mykhelmillena-cyber | 0 | 2026-03-20 |
 | [michaelmok.portfolio](https://github.com/michaelmok26-dev/michaelmok.portfolio) | michaelmok26-dev | 0 | 2026-08-13 |
@@ -110298,6 +110382,7 @@
 | [mophones-credit-portfolio](https://github.com/akeDataAnalyst/mophones-credit-portfolio) | akeDataAnalyst | 0 | 2026-05-08 |
 | [MoPortfolio](https://github.com/MoSiraphob/MoPortfolio) | MoSiraphob | 0 | 2026-07-04 |
 | [MoPortfolioKobweb](https://github.com/mopeters8/MoPortfolioKobweb) | mopeters8 | 0 | 2026-03-31 |
+| [moqaddas_portfolio](https://github.com/Moqaddas786/moqaddas_portfolio) | Moqaddas786 | 0 | 2026-11-28 |
 | [MoQaherPortfolio](https://github.com/mohaqabio-oss/MoQaherPortfolio) | mohaqabio-oss | 0 | 2026-09-26 |
 | [moqtader-portfolio](https://github.com/Moqtaderjan/moqtader-portfolio) | Moqtaderjan | 0 | 2026-09-04 |
 | [moqtader-portfolio-video-editor](https://github.com/Moqtaderjan/moqtader-portfolio-video-editor) | Moqtaderjan | 0 | 2026-10-03 |
@@ -111141,6 +111226,7 @@
 | [MS-Portfolio-Claude](https://github.com/arpasree104/MS-Portfolio-Claude) | arpasree104 | 0 | 2026-09-07 |
 | [ms-portfolio-github-pages](https://github.com/MarcinSucharzewski/ms-portfolio-github-pages) | MarcinSucharzewski | 1 | 2026-07-18 |
 | [ms-portfolio-website-2023](https://github.com/msamter/ms-portfolio-website-2023) | msamter | 0 | 2026-11-27 |
+| [ms-portfolio-website-2026](https://github.com/msamter/ms-portfolio-website-2026) | msamter | 0 | 2026-11-28 |
 | [MS-Portfolio1](https://github.com/mdsaif189/MS-Portfolio1) | mdsaif189 | 0 | 2026-08-03 |
 | [ms-product](https://github.com/libstake-portfolio/ms-product) | libstake-portfolio | 0 | 2026-08-20 |
 | [ms-software-portfolio](https://github.com/matheusferza/ms-software-portfolio) | matheusferza | 0 | 2026-04-09 |
@@ -111440,6 +111526,7 @@
 | [Mudammild-Portfolio](https://github.com/mudammild/Mudammild-Portfolio) | mudammild | 0 | 2026-09-25 |
 | [mudasir_portfolio](https://github.com/mudasir687abbas/mudasir_portfolio) | mudasir687abbas | 0 | 2026-04-07 |
 | [mudasir-ahmed-abro-portfolio](https://github.com/mudasirabro/mudasir-ahmed-abro-portfolio) | mudasirabro | 1 | 2026-08-19 |
+| [mudasir-ali-data-science-portfolio](https://github.com/bakhshan001-byte/mudasir-ali-data-science-portfolio) | bakhshan001-byte | 0 | 2026-11-28 |
 | [mudasir-portfolio](https://github.com/Mudasirrr/mudasir-portfolio) | Mudasirrr | 0 | 2026-04-21 |
 | [Mudasir-portfolio](https://github.com/MohammedMudasirAliSiddiqui/Mudasir-portfolio) | MohammedMudasirAliSiddiqui | 0 | 2026-05-22 |
 | [Mudasir-Portfolio](https://github.com/Mudasir345/Mudasir-Portfolio) | Mudasir345 | 2 | 2026-06-11 |
@@ -112421,6 +112508,7 @@
 | [Muneeba-SEO-Portfolio](https://github.com/muneebafarid/Muneeba-SEO-Portfolio) | muneebafarid | 0 | 2026-07-12 |
 | [MuneebaRehmanPortfolio](https://github.com/muneebaofficial21-cmyk/MuneebaRehmanPortfolio) | muneebaofficial21-cmyk | 0 | 2026-07-31 |
 | [MuneebPortfolio](https://github.com/muneeb003/MuneebPortfolio) | muneeb003 | 0 | 2026-03-27 |
+| [muneef-ullah-portfolio](https://github.com/fluttercodecraft/muneef-ullah-portfolio) | fluttercodecraft | 0 | 2026-11-28 |
 | [Muneer_portfolio](https://github.com/muneerhassan55/Muneer_portfolio) | muneerhassan55 | 0 | 2026-07-28 |
 | [muneerah-portfolio](https://github.com/NomadDigita/muneerah-portfolio) | NomadDigita | 0 | 2026-11-12 |
 | [muneerah-s-portfolio](https://github.com/segun-a01/muneerah-s-portfolio) | segun-a01 | 0 | 2026-06-17 |
@@ -113419,6 +113507,7 @@
 | [My_Portfolio_app](https://github.com/Techsheik/My_Portfolio_app) | Techsheik | 0 | 2026-03-05 |
 | [My_Portfolio_App](https://github.com/Hari-Mal/My_Portfolio_App) | Hari-Mal | 0 | 2026-03-08 |
 | [My_portfolio_app](https://github.com/RICAY458/My_portfolio_app) | RICAY458 | 0 | 2026-04-18 |
+| [MY_Portfolio_App](https://github.com/ichino3/MY_Portfolio_App) | ichino3 | 0 | 2026-11-28 |
 | [My_Portfolio_Application](https://github.com/DharunS-25/My_Portfolio_Application) | DharunS-25 | 0 | 2026-04-08 |
 | [My_Portfolio_Ardena](https://github.com/gleamae/My_Portfolio_Ardena) | gleamae | 0 | 2026-05-28 |
 | [My_Portfolio_Arteta](https://github.com/ataaan/My_Portfolio_Arteta) | ataaan | 0 | 2026-10-06 |
@@ -114271,6 +114360,7 @@
 | [My-Developer-portfolio](https://github.com/khurshida20034-stack/My-Developer-portfolio) | khurshida20034-stack | 0 | 2026-11-23 |
 | [My-developer-portfolio-](https://github.com/Frontmine/My-developer-portfolio-) | Frontmine | 0 | 2026-05-16 |
 | [My-Developer-Portfolio-](https://github.com/mishraji1302/My-Developer-Portfolio-) | mishraji1302 | 0 | 2026-11-03 |
+| [my-developer-portfolio-](https://github.com/charandesabathulla-eng/my-developer-portfolio-) | charandesabathulla-eng | 0 | 2026-11-28 |
 | [my-developer-portfolio-frontend](https://github.com/tarekul42/my-developer-portfolio-frontend) | tarekul42 | 0 | 2026-06-01 |
 | [My-developer-portfolio.-](https://github.com/angelmwangi200-hub/My-developer-portfolio.-) | angelmwangi200-hub | 0 | 2026-11-21 |
 | [My-development-portfolio](https://github.com/Abhishek8454-in/My-development-portfolio) | Abhishek8454-in | 0 | 2026-05-30 |
@@ -115304,6 +115394,7 @@
 | [my-portfolio-building-with-streamlit](https://github.com/Jawaaa/my-portfolio-building-with-streamlit) | Jawaaa | 0 | 2026-09-05 |
 | [My-Portfolio-Built](https://github.com/mahbubhossine/My-Portfolio-Built) | mahbubhossine | 0 | 2026-07-23 |
 | [my-portfolio-built](https://github.com/mdmahbubhossine/my-portfolio-built) | mdmahbubhossine | 0 | 2026-08-24 |
+| [my-portfolio-bulid](https://github.com/vanjariramalaxmi/my-portfolio-bulid) | vanjariramalaxmi | 0 | 2026-11-28 |
 | [my-portfolio-by-ai](https://github.com/Nowfal556/my-portfolio-by-ai) | Nowfal556 | 0 | 2026-03-25 |
 | [My-Portfolio-by-LP](https://github.com/Laxmiprasanna4044/My-Portfolio-by-LP) | Laxmiprasanna4044 | 0 | 2026-07-07 |
 | [my-portfolio-by-next-js](https://github.com/Desalegngetachew/my-portfolio-by-next-js) | Desalegngetachew | 0 | 2026-07-18 |
@@ -116051,6 +116142,7 @@
 | [my-portfolio-starter](https://github.com/AnushkaM26/my-portfolio-starter) | AnushkaM26 | 0 | 2026-08-05 |
 | [my-portfolio-static](https://github.com/amvishnu11/my-portfolio-static) | amvishnu11 | 0 | 2026-08-07 |
 | [my-portfolio-static-html](https://github.com/Sherwin1018/my-portfolio-static-html) | Sherwin1018 | 0 | 2026-03-30 |
+| [My-Portfolio-Status-Check](https://github.com/berekt24/My-Portfolio-Status-Check) | berekt24 | 0 | 2026-11-28 |
 | [my-portfolio-steeltroops](https://github.com/steeltroops-ai/my-portfolio-steeltroops) | steeltroops-ai | 0 | 2026-03-02 |
 | [my-portfolio-STEP](https://github.com/NICSOl0/my-portfolio-STEP) | NICSOl0 | 0 | 2026-07-28 |
 | [my-portfolio-stotre](https://github.com/medo-prog/my-portfolio-stotre) | medo-prog | 0 | 2026-03-27 |
@@ -116147,6 +116239,7 @@
 | [My-Portfolio-V-2](https://github.com/masudrananayeem/My-Portfolio-V-2) | masudrananayeem | 0 | 2026-09-26 |
 | [My-Portfolio-V-2-Backend](https://github.com/masudrananayeem/My-Portfolio-V-2-Backend) | masudrananayeem | 0 | 2026-10-07 |
 | [My-Portfolio-V.2](https://github.com/Alex-Horizon-27/My-Portfolio-V.2) | Alex-Horizon-27 | 0 | 2026-03-31 |
+| [My-Portfolio-v01](https://github.com/BasavarajuVB/My-Portfolio-v01) | BasavarajuVB | 0 | 2026-11-28 |
 | [my-portfolio-v1](https://github.com/kaili-lab/my-portfolio-v1) | kaili-lab | 0 | 2026-03-01 |
 | [My-Portfolio-v1](https://github.com/prashant00797/My-Portfolio-v1) | prashant00797 | 0 | 2026-03-08 |
 | [My-portfolio-v1](https://github.com/buoysophit/My-portfolio-v1) | buoysophit | 2 | 2026-03-28 |
@@ -118643,6 +118736,7 @@
 | [nam-nguyen-s-portfolio](https://github.com/Hnam173-designer/nam-nguyen-s-portfolio) | Hnam173-designer | 0 | 2026-04-15 |
 | [Nam-portfolio](https://github.com/AndrewNamDV/Nam-portfolio) | AndrewNamDV | 0 | 2026-03-07 |
 | [nam-portfolio](https://github.com/hoangnm-ndm/nam-portfolio) | hoangnm-ndm | 0 | 2026-03-07 |
+| [nam-tola-portfolio](https://github.com/it-tola/nam-tola-portfolio) | it-tola | 0 | 2026-11-28 |
 | [Namachozhan_Cloud_Devops_Engineer_Portfolio](https://github.com/Namachozhan/Namachozhan_Cloud_Devops_Engineer_Portfolio) | Namachozhan | 0 | 2026-11-08 |
 | [Namad-Mohammed-BA-Portfolio](https://github.com/namadmohammed0-rgb/Namad-Mohammed-BA-Portfolio) | namadmohammed0-rgb | 0 | 2026-10-06 |
 | [namadee-portfolio](https://github.com/namadee/namadee-portfolio) | namadee | 0 | 2026-11-03 |
@@ -122151,6 +122245,7 @@
 | [nhs-data-analytics-portfolio](https://github.com/Jonathan36NHS/nhs-data-analytics-portfolio) | Jonathan36NHS | 0 | 2026-05-08 |
 | [NHS-Data-Analytics-Portfolio](https://github.com/nayana9823/NHS-Data-Analytics-Portfolio) | nayana9823 | 0 | 2026-06-21 |
 | [nhs-healthcare-ds-portfolio](https://github.com/umairrana99/nhs-healthcare-ds-portfolio) | umairrana99 | 0 | 2026-07-13 |
+| [nhs-patient-access-analytics-portfolio](https://github.com/ashasif/nhs-patient-access-analytics-portfolio) | ashasif | 0 | 2026-11-28 |
 | [nhs-pharmacy-ai-portfolio](https://github.com/MedMetrics/nhs-pharmacy-ai-portfolio) | MedMetrics | 0 | 2026-06-28 |
 | [nhs-portfolio](https://github.com/10Ninjas/nhs-portfolio) | 10Ninjas | 0 | 2026-04-19 |
 | [NHTI-Breed-Portfolio-CSS](https://github.com/D-Breed/NHTI-Breed-Portfolio-CSS) | D-Breed | 0 | 2026-06-12 |
@@ -124617,6 +124712,7 @@
 | [nova-sync-portfolio](https://github.com/NovaSync-cloud/nova-sync-portfolio) | NovaSync-cloud | 0 | 2026-05-31 |
 | [Nova-Tech-Portfolio](https://github.com/Medha207/Nova-Tech-Portfolio) | Medha207 | 0 | 2026-05-16 |
 | [nova-web3-portfolio](https://github.com/litterseven/nova-web3-portfolio) | litterseven | 0 | 2026-02-28 |
+| [Nova.Portfolio](https://github.com/TheMarketingLegend/Nova.Portfolio) | TheMarketingLegend | 0 | 2026-11-28 |
 | [NovaAITech-portfolio](https://github.com/deeluckyabhay2008-create/NovaAITech-portfolio) | deeluckyabhay2008-create | 0 | 2026-06-18 |
 | [novabank-portfolio](https://github.com/Kunalgh9145/novabank-portfolio) | Kunalgh9145 | 0 | 2026-08-15 |
 | [NovaBev-BTP-Portfolio](https://github.com/tago893/NovaBev-BTP-Portfolio) | tago893 | 0 | 2026-06-21 |
@@ -125335,6 +125431,7 @@
 | [nzelafunnels-portfolio](https://github.com/EduardoMuangala/nzelafunnels-portfolio) | EduardoMuangala | 0 | 2026-09-21 |
 | [NZIZA-portfolio](https://github.com/Nziza21/NZIZA-portfolio) | Nziza21 | 0 | 2026-04-08 |
 | [NzOjr-portfolio](https://github.com/NzOjr/NzOjr-portfolio) | NzOjr | 0 | 2026-04-19 |
+| [nzx-legacy-portfolio](https://github.com/bjndawson-oss/nzx-legacy-portfolio) | bjndawson-oss | 0 | 2026-11-28 |
 | [o_portfolio](https://github.com/o-taylor-bryant/o_portfolio) | o-taylor-bryant | 1 | 2026-04-16 |
 | [o-dori-dm-portfolio](https://github.com/seira728/o-dori-dm-portfolio) | seira728 | 0 | 2026-09-17 |
 | [o-kompletova-portfolio](https://github.com/timtim40a/o-kompletova-portfolio) | timtim40a | 0 | 2026-05-08 |
@@ -126089,6 +126186,7 @@
 | [olga-portfolio](https://github.com/valentinpo/olga-portfolio) | valentinpo | 0 | 2026-04-05 |
 | [Olga-Portfolio](https://github.com/LJM88867/Olga-Portfolio) | LJM88867 | 0 | 2026-04-15 |
 | [Olga-Portfolio-1](https://github.com/Gigi1411/Olga-Portfolio-1) | Gigi1411 | 0 | 2026-04-19 |
+| [olga-sharevich-portfolio](https://github.com/H3mul/olga-sharevich-portfolio) | H3mul | 0 | 2026-11-28 |
 | [olha-portfolio](https://github.com/terkin/olha-portfolio) | terkin | 0 | 2026-05-01 |
 | [Oli_Portfolio](https://github.com/oli4ai/Oli_Portfolio) | oli4ai | 0 | 2026-04-28 |
 | [oli_portfolio](https://github.com/olivierwick/oli_portfolio) | olivierwick | 0 | 2026-05-09 |
@@ -126745,6 +126843,7 @@
 | [omswaroop-portfolio](https://github.com/Omryuo/omswaroop-portfolio) | Omryuo | 0 | 2026-07-02 |
 | [omtech-portfolio](https://github.com/CARNAGE-TECH/omtech-portfolio) | CARNAGE-TECH | 0 | 2026-06-17 |
 | [Omvesh-Portfolio](https://github.com/Omveshsingh/Omvesh-Portfolio) | Omveshsingh | 0 | 2026-03-20 |
+| [omx-physical-ai-portfolio](https://github.com/PURPLE-SY/omx-physical-ai-portfolio) | PURPLE-SY | 0 | 2026-11-28 |
 | [omxh-portfolio-agent](https://github.com/Davuthanalatas/omxh-portfolio-agent) | Davuthanalatas | 0 | 2026-05-05 |
 | [On-Lookers-Founder-Portfolio-](https://github.com/Sartahkakaedar/On-Lookers-Founder-Portfolio-) | Sartahkakaedar | 0 | 2026-04-05 |
 | [on-portfolio](https://github.com/nicojoaquin/on-portfolio) | nicojoaquin | 0 | 2026-03-12 |
@@ -134607,6 +134706,7 @@
 | [Portfolio_Anbu](https://github.com/anbarasu5171cc-oss/Portfolio_Anbu) | anbarasu5171cc-oss | 0 | 2026-08-23 |
 | [portfolio_Anchal](https://github.com/anchalBomjan/portfolio_Anchal) | anchalBomjan | 0 | 2026-04-02 |
 | [portfolio_anchor](https://github.com/bumboomXX/portfolio_anchor) | bumboomXX | 0 | 2026-06-28 |
+| [portfolio_And](https://github.com/AndresMonkey10/portfolio_And) | AndresMonkey10 | 0 | 2026-11-28 |
 | [portfolio_and_blog](https://github.com/fredjuma007/portfolio_and_blog) | fredjuma007 | 0 | 2026-07-17 |
 | [portfolio_and_blog_app_fontend](https://github.com/mahmudpial/portfolio_and_blog_app_fontend) | mahmudpial | 0 | 2026-04-03 |
 | [portfolio_and_brain_dump](https://github.com/ashu8912/portfolio_and_brain_dump) | ashu8912 | 0 | 2026-03-31 |
@@ -136210,6 +136310,7 @@
 | [Portfolio_Django_](https://github.com/900Gang/Portfolio_Django_) | 900Gang | 0 | 2026-09-15 |
 | [portfolio_django_sistema_web](https://github.com/Lucio-Fabio-Engenheiro-de-Dados/portfolio_django_sistema_web) | Lucio-Fabio-Engenheiro-de-Dados | 0 | 2026-05-01 |
 | [portfolio_django_todo](https://github.com/taku26841397/portfolio_django_todo) | taku26841397 | 0 | 2026-06-03 |
+| [Portfolio_Djoulde](https://github.com/Djoulde24/Portfolio_Djoulde) | Djoulde24 | 0 | 2026-11-28 |
 | [Portfolio_dk](https://github.com/deepan-dk-007/Portfolio_dk) | deepan-dk-007 | 1 | 2026-03-07 |
 | [portfolio_dk_devops_ai](https://github.com/deven1003/portfolio_dk_devops_ai) | deven1003 | 0 | 2026-05-09 |
 | [portfolio_DK_nuxt](https://github.com/dkdhamo/portfolio_DK_nuxt) | dkdhamo | 0 | 2026-07-27 |
@@ -139562,6 +139663,7 @@
 | [portfolio_partenariat](https://github.com/ksip1/portfolio_partenariat) | ksip1 | 0 | 2026-04-14 |
 | [portfolio_parth](https://github.com/gitzboy1/portfolio_parth) | gitzboy1 | 0 | 2026-06-30 |
 | [Portfolio_Partho](https://github.com/ParthoKumarray/Portfolio_Partho) | ParthoKumarray | 0 | 2026-06-05 |
+| [Portfolio_Particle-Simulation](https://github.com/codeitbijay/Portfolio_Particle-Simulation) | codeitbijay | 1 | 2026-11-28 |
 | [portfolio_particles](https://github.com/INGMIKY/portfolio_particles) | INGMIKY | 0 | 2026-05-04 |
 | [Portfolio_Parts](https://github.com/CodeMaker0919/Portfolio_Parts) | CodeMaker0919 | 0 | 2026-09-21 |
 | [Portfolio_Parva](https://github.com/Parva-28/Portfolio_Parva) | Parva-28 | 0 | 2026-04-05 |
@@ -142873,6 +142975,7 @@
 | [portfolio-_website](https://github.com/rafiqul-cse/portfolio-_website) | rafiqul-cse | 0 | 2026-07-10 |
 | [Portfolio-_Website-](https://github.com/mitthu930pawar/Portfolio-_Website-) | mitthu930pawar | 0 | 2026-06-02 |
 | [portfolio-_website-](https://github.com/AvinashHr-35/portfolio-_website-) | AvinashHr-35 | 0 | 2026-08-10 |
+| [Portfolio-_website..](https://github.com/faruk03-git/Portfolio-_website..) | faruk03-git | 0 | 2026-11-28 |
 | [Portfolio-_YK](https://github.com/yanniskenmoe2-afk/Portfolio-_YK) | yanniskenmoe2-afk | 0 | 2026-10-21 |
 | [Portfolio--](https://github.com/engismailabdulkadir/Portfolio--) | engismailabdulkadir | 0 | 2026-03-12 |
 | [portfolio--](https://github.com/Yugeshwaran-gm/portfolio--) | Yugeshwaran-gm | 0 | 2026-03-28 |
@@ -145298,6 +145401,7 @@
 | [Portfolio-AK-Designs](https://github.com/khadar009/Portfolio-AK-Designs) | khadar009 | 0 | 2026-08-15 |
 | [portfolio-AK13](https://github.com/kabil-AK/portfolio-AK13) | kabil-AK | 0 | 2026-08-13 |
 | [Portfolio-Ak3515](https://github.com/adithyaa-group/Portfolio-Ak3515) | adithyaa-group | 0 | 2026-07-29 |
+| [portfolio-akakanu](https://github.com/akakanu/portfolio-akakanu) | akakanu | 0 | 2026-11-28 |
 | [portfolio-akama-test](https://github.com/hyulwang-bot/portfolio-akama-test) | hyulwang-bot | 0 | 2026-04-15 |
 | [portfolio-akamai](https://github.com/hyulwang-bot/portfolio-akamai) | hyulwang-bot | 0 | 2026-04-15 |
 | [portfolio-akamois](https://github.com/AKAMois/portfolio-akamois) | AKAMois | 0 | 2026-04-30 |
@@ -147484,6 +147588,7 @@
 | [portfolio-ayissi](https://github.com/propentatech-web/portfolio-ayissi) | propentatech-web | 0 | 2026-04-11 |
 | [portfolio-ayjamal](https://github.com/ayjamal583-maker/portfolio-ayjamal) | ayjamal583-maker | 0 | 2026-04-01 |
 | [portfolio-aylen](https://github.com/ramirotule/portfolio-aylen) | ramirotule | 0 | 2026-04-05 |
+| [portfolio-ayling](https://github.com/ayling0826-dotcom/portfolio-ayling) | ayling0826-dotcom | 0 | 2026-11-28 |
 | [Portfolio-Ayman](https://github.com/ayman-developer/Portfolio-Ayman) | ayman-developer | 0 | 2026-07-16 |
 | [portfolio-ayman](https://github.com/AYMANBOUISSEHAK/portfolio-ayman) | AYMANBOUISSEHAK | 0 | 2026-10-21 |
 | [portfolio-aymane](https://github.com/asamina48-coder/portfolio-aymane) | asamina48-coder | 0 | 2026-05-21 |
@@ -154055,6 +154160,7 @@
 | [portfolio-fullstack_master](https://github.com/jlcanadagon-EDEM/portfolio-fullstack_master) | jlcanadagon-EDEM | 0 | 2026-09-13 |
 | [portfolio-fullstack_VO](https://github.com/fatoutogofa/portfolio-fullstack_VO) | fatoutogofa | 0 | 2026-06-02 |
 | [Portfolio-FullStack-](https://github.com/Nihal-75/Portfolio-FullStack-) | Nihal-75 | 0 | 2026-04-29 |
+| [portfolio-fullstack-3d](https://github.com/ro-front-end/portfolio-fullstack-3d) | ro-front-end | 0 | 2026-11-28 |
 | [Portfolio-FullStack-AI-ML](https://github.com/Yash13606/Portfolio-FullStack-AI-ML) | Yash13606 | 0 | 2026-04-03 |
 | [portfolio-fullstack-app](https://github.com/gilsonramos2026/portfolio-fullstack-app) | gilsonramos2026 | 0 | 2026-06-09 |
 | [portfolio-fullstack-bate](https://github.com/Simon339/portfolio-fullstack-bate) | Simon339 | 0 | 2026-05-24 |
@@ -154635,6 +154741,7 @@
 | [portfolio-giulia-ribeiro](https://github.com/Giuliar-m/portfolio-giulia-ribeiro) | Giuliar-m | 0 | 2026-10-21 |
 | [portfolio-giuliana](https://github.com/giuliannadr/portfolio-giuliana) | giuliannadr | 0 | 2026-05-02 |
 | [portfolio-giuliani](https://github.com/giuls-35456/portfolio-giuliani) | giuls-35456 | 0 | 2026-06-16 |
+| [Portfolio-Giuliano_Giovanola](https://github.com/GiulianoGiovanola/Portfolio-Giuliano_Giovanola) | GiulianoGiovanola | 0 | 2026-11-28 |
 | [portfolio-giully](https://github.com/Giullyfiorin/portfolio-giully) | Giullyfiorin | 0 | 2026-06-19 |
 | [Portfolio-Giuri-Chad](https://github.com/sabiondo298/Portfolio-Giuri-Chad) | sabiondo298 | 0 | 2026-08-26 |
 | [portfolio-giuseppe](https://github.com/GG-script-code/portfolio-giuseppe) | GG-script-code | 0 | 2026-11-08 |
@@ -156043,6 +156150,7 @@
 | [portfolio-images-showcase](https://github.com/SillyKitr/portfolio-images-showcase) | SillyKitr | 0 | 2026-06-14 |
 | [portfolio-imam-insani](https://github.com/Imaminsani/portfolio-imam-insani) | Imaminsani | 0 | 2026-04-18 |
 | [portfolio-IMAN](https://github.com/ALEXDEMONDE/portfolio-IMAN) | ALEXDEMONDE | 0 | 2026-10-11 |
+| [Portfolio-Iman](https://github.com/mimanddporto/Portfolio-Iman) | mimanddporto | 0 | 2026-11-28 |
 | [Portfolio-imane-sarhir](https://github.com/imanesarhir11-web/Portfolio-imane-sarhir) | imanesarhir11-web | 0 | 2026-09-15 |
 | [Portfolio-Imanirakiza-Hitimana-Jacques](https://github.com/jacques-imani/Portfolio-Imanirakiza-Hitimana-Jacques) | jacques-imani | 0 | 2026-03-07 |
 | [Portfolio-Imara-Kabiona-Abel](https://github.com/Imara-kabiona-abel/Portfolio-Imara-Kabiona-Abel) | Imara-kabiona-abel | 0 | 2026-07-10 |
@@ -156183,6 +156291,7 @@
 | [portfolio-infra-dev](https://github.com/ismaelmelgarejo/portfolio-infra-dev) | ismaelmelgarejo | 0 | 2026-03-17 |
 | [portfolio-infra-docker-nginx](https://github.com/dev-falves/portfolio-infra-docker-nginx) | dev-falves | 0 | 2026-08-26 |
 | [portfolio-infra-suporte](https://github.com/GabrielAng3lini/portfolio-infra-suporte) | GabrielAng3lini | 0 | 2026-11-17 |
+| [portfolio-infraestrutura-redes-lucas](https://github.com/lucasfreitasvm/portfolio-infraestrutura-redes-lucas) | lucasfreitasvm | 0 | 2026-11-28 |
 | [portfolio-infraestrutura-ti](https://github.com/isateix/portfolio-infraestrutura-ti) | isateix | 0 | 2026-11-18 |
 | [portfolio-infrastructure](https://github.com/DiehardArchitect/portfolio-infrastructure) | DiehardArchitect | 0 | 2026-03-21 |
 | [portfolio-infrastructure-securisee](https://github.com/freddyitoua-hub/portfolio-infrastructure-securisee) | freddyitoua-hub | 0 | 2026-05-13 |
@@ -157362,6 +157471,7 @@
 | [Portfolio-JulianMurgic.github.io](https://github.com/julimurgic/Portfolio-JulianMurgic.github.io) | julimurgic | 0 | 2026-04-25 |
 | [portfolio-julianna-miantoudila](https://github.com/juliannamiantoudila-lab/portfolio-julianna-miantoudila) | juliannamiantoudila-lab | 0 | 2026-08-05 |
 | [portfolio-juliano](https://github.com/Julianordn/portfolio-juliano) | Julianordn | 0 | 2026-03-06 |
+| [portfolio-julie-ibarra](https://github.com/JulieIb03/portfolio-julie-ibarra) | JulieIb03 | 0 | 2026-11-28 |
 | [portfolio-juliemonefeldt](https://github.com/juliemeta/portfolio-juliemonefeldt) | juliemeta | 0 | 2026-04-14 |
 | [Portfolio-Julien](https://github.com/m0ka-png/Portfolio-Julien) | m0ka-png | 0 | 2026-07-24 |
 | [PortFolio-JULIEN-Mathieu-non-static](https://github.com/MathieuJULIEN/PortFolio-JULIEN-Mathieu-non-static) | MathieuJULIEN | 0 | 2026-11-15 |
@@ -157433,6 +157543,7 @@
 | [Portfolio-JV](https://github.com/josevigil298/Portfolio-JV) | josevigil298 | 0 | 2026-03-31 |
 | [portfolio-JV](https://github.com/JVCodesABit/portfolio-JV) | JVCodesABit | 0 | 2026-03-31 |
 | [portfolio-jv](https://github.com/JVv-dev/portfolio-jv) | JVv-dev | 0 | 2026-05-30 |
+| [portfolio-JVA](https://github.com/JoaoVictorDevv/portfolio-JVA) | JoaoVictorDevv | 1 | 2026-11-28 |
 | [portfolio-JW](https://github.com/JimbobWarlord/portfolio-JW) | JimbobWarlord | 0 | 2026-04-28 |
 | [Portfolio-JW](https://github.com/JeanWLODARCZYK/Portfolio-JW) | JeanWLODARCZYK | 0 | 2026-07-29 |
 | [Portfolio-JWA](https://github.com/jwack111-bot/Portfolio-JWA) | jwack111-bot | 0 | 2026-07-27 |
@@ -163511,6 +163622,7 @@
 | [portfolio-Patrick-Henrique](https://github.com/Patrickhenrique1215/portfolio-Patrick-Henrique) | Patrickhenrique1215 | 0 | 2026-09-21 |
 | [portfolio-patrick-iury-zanatta](https://github.com/patrickezera/portfolio-patrick-iury-zanatta) | patrickezera | 0 | 2026-08-18 |
 | [portfolio-Patrick-Lanthier](https://github.com/Harys-Randria/portfolio-Patrick-Lanthier) | Harys-Randria | 0 | 2026-04-13 |
+| [portfolio-patrick-vachon](https://github.com/patvartiste-art/portfolio-patrick-vachon) | patvartiste-art | 0 | 2026-11-28 |
 | [portfolio-patrick-vieira](https://github.com/Patrick-vs-dev/portfolio-patrick-vieira) | Patrick-vs-dev | 0 | 2026-06-21 |
 | [portfolio-patrickbrasileiro](https://github.com/PatrickBrasileiro/portfolio-patrickbrasileiro) | PatrickBrasileiro | 0 | 2026-07-06 |
 | [portfolio-patrilago](https://github.com/patriiilago/portfolio-patrilago) | patriiilago | 1 | 2026-05-26 |
@@ -163682,6 +163794,7 @@
 | [portfolio-perabru](https://github.com/perabru/portfolio-perabru) | perabru | 0 | 2026-06-20 |
 | [portfolio-percenal](https://github.com/YasirBhat786/portfolio-percenal) | YasirBhat786 | 0 | 2026-03-04 |
 | [portfolio-percobaan](https://github.com/ZVL78/portfolio-percobaan) | ZVL78 | 0 | 2026-10-02 |
+| [Portfolio-Percorre-202602](https://github.com/Pedropii77/Portfolio-Percorre-202602) | Pedropii77 | 0 | 2026-11-28 |
 | [portfolio-pereiraanthony](https://github.com/PereiraAnthony/portfolio-pereiraanthony) | PereiraAnthony | 0 | 2026-10-16 |
 | [portfolio-perfect](https://github.com/Bhavya240305/portfolio-perfect) | Bhavya240305 | 0 | 2026-04-24 |
 | [portfolio-Perfect](https://github.com/ramzzzzz27/portfolio-Perfect) | ramzzzzz27 | 0 | 2026-07-03 |
@@ -166546,6 +166659,7 @@
 | [Portfolio-Risk-Assessment-under-Extreme-Market-Conditions-VaR-ES-and-Backtesting](https://github.com/HMK05/Portfolio-Risk-Assessment-under-Extreme-Market-Conditions-VaR-ES-and-Backtesting) | HMK05 | 0 | 2026-07-04 |
 | [portfolio-risk-backend](https://github.com/ishanphadke11/portfolio-risk-backend) | ishanphadke11 | 0 | 2026-03-16 |
 | [portfolio-risk-backtesting-engine](https://github.com/armaansg/portfolio-risk-backtesting-engine) | armaansg | 0 | 2026-08-26 |
+| [Portfolio-Risk-Backtesting-Engine](https://github.com/thasan26/Portfolio-Risk-Backtesting-Engine) | thasan26 | 0 | 2026-11-28 |
 | [portfolio-risk-backtesting-framework](https://github.com/Anantha311/portfolio-risk-backtesting-framework) | Anantha311 | 0 | 2026-02-28 |
 | [portfolio-risk-backtesting-toolkit](https://github.com/Morwane/portfolio-risk-backtesting-toolkit) | Morwane | 0 | 2026-04-22 |
 | [Portfolio-Risk-Calculation-Engine](https://github.com/rosalindfreeman/Portfolio-Risk-Calculation-Engine) | rosalindfreeman | 0 | 2026-08-12 |
@@ -166618,6 +166732,7 @@
 | [portfolio-risk-navigator](https://github.com/NotKilluaZ/portfolio-risk-navigator) | NotKilluaZ | 1 | 2026-02-27 |
 | [portfolio-risk-optimisation](https://github.com/ata-tuna/portfolio-risk-optimisation) | ata-tuna | 0 | 2026-09-06 |
 | [portfolio-risk-optimization](https://github.com/MarioManzanoM/portfolio-risk-optimization) | MarioManzanoM | 0 | 2026-05-18 |
+| [Portfolio-Risk-Optimization-Forecasting-Dashboard](https://github.com/ESGT1299/Portfolio-Risk-Optimization-Forecasting-Dashboard) | ESGT1299 | 0 | 2026-11-28 |
 | [Portfolio-Risk-Optimization-Performance-Analytics](https://github.com/shreyas-auti/Portfolio-Risk-Optimization-Performance-Analytics) | shreyas-auti | 0 | 2026-02-28 |
 | [portfolio-risk-optimizer](https://github.com/Ashutosh2407/portfolio-risk-optimizer) | Ashutosh2407 | 0 | 2026-03-14 |
 | [portfolio-risk-overlap](https://github.com/tundesamuel14/portfolio-risk-overlap) | tundesamuel14 | 0 | 2026-07-02 |
@@ -167827,6 +167942,7 @@
 | [Portfolio-senai-VitinCapaFacil](https://github.com/vitor-programas/Portfolio-senai-VitinCapaFacil) | vitor-programas | 0 | 2026-06-01 |
 | [portfolio-senai-yanne](https://github.com/yannebeattriz/portfolio-senai-yanne) | yannebeattriz | 0 | 2026-06-01 |
 | [Portfolio-senai-yasmin](https://github.com/yasminmedkar/Portfolio-senai-yasmin) | yasminmedkar | 0 | 2026-06-01 |
+| [portfolio-senai2](https://github.com/loaguilherme/portfolio-senai2) | loaguilherme | 0 | 2026-11-28 |
 | [Portfolio-SENCE](https://github.com/isalfonso87/Portfolio-SENCE) | isalfonso87 | 0 | 2026-06-21 |
 | [portfolio-senda](https://github.com/sendasenda7/portfolio-senda) | sendasenda7 | 0 | 2026-05-31 |
 | [Portfolio-Senior-Project](https://github.com/mikl81/Portfolio-Senior-Project) | mikl81 | 0 | 2026-11-26 |
@@ -174465,6 +174581,7 @@
 | [portfolio-zapta](https://github.com/taqihaiders/portfolio-zapta) | taqihaiders | 0 | 2026-07-28 |
 | [portfolio-zara](https://github.com/FadjarSetiawan/portfolio-zara) | FadjarSetiawan | 0 | 2026-06-07 |
 | [portfolio-zare](https://github.com/MSNS-DEV/portfolio-zare) | MSNS-DEV | 0 | 2026-07-17 |
+| [portfolio-zayan](https://github.com/studentabdo83-lab/portfolio-zayan) | studentabdo83-lab | 0 | 2026-11-28 |
 | [portfolio-zayd](https://github.com/zaydc/portfolio-zayd) | zaydc | 0 | 2026-09-10 |
 | [portfolio-zayd-bennama](https://github.com/bennamazayd-a11y/portfolio-zayd-bennama) | bennamazayd-a11y | 0 | 2026-11-20 |
 | [Portfolio-zaynur](https://github.com/umar1289/Portfolio-zaynur) | umar1289 | 0 | 2026-08-04 |
@@ -175012,6 +175129,7 @@
 | [Portfolio.Jolly](https://github.com/Jolly-M-Ali/Portfolio.Jolly) | Jolly-M-Ali | 0 | 2026-10-02 |
 | [portfolio.jonathafernandes](https://github.com/jonathafernandes/portfolio.jonathafernandes) | jonathafernandes | 5 | 2026-04-26 |
 | [Portfolio.jonathancruz](https://github.com/jonathancruz-portfolio/Portfolio.jonathancruz) | jonathancruz-portfolio | 0 | 2026-05-25 |
+| [portfolio.jordyzero.com](https://github.com/JordanW-Kiti/portfolio.jordyzero.com) | JordanW-Kiti | 0 | 2026-11-28 |
 | [portfolio.jracon.xyz](https://github.com/Jracon/portfolio.jracon.xyz) | Jracon | 0 | 2026-10-26 |
 | [portfolio.jrcompressores](https://github.com/k4mivic98-cpu/portfolio.jrcompressores) | k4mivic98-cpu | 0 | 2026-03-21 |
 | [portfolio.js](https://github.com/Joyceanne-deb/portfolio.js) | Joyceanne-deb | 0 | 2026-03-21 |
@@ -180273,6 +180391,7 @@
 | [PortfolioPJ1](https://github.com/IrfanCodesBTW/PortfolioPJ1) | IrfanCodesBTW | 0 | 2026-03-01 |
 | [portfoliopj2](https://github.com/prasomjain/portfoliopj2) | prasomjain | 0 | 2026-07-14 |
 | [portfoliopkkmb](https://github.com/arwasakha/portfoliopkkmb) | arwasakha | 0 | 2026-09-04 |
+| [portfoliopkl](https://github.com/ImLyannn/portfoliopkl) | ImLyannn | 0 | 2026-11-28 |
 | [PortfolioPKP](https://github.com/priyanshu639/PortfolioPKP) | priyanshu639 | 0 | 2026-07-22 |
 | [portfolioPL](https://github.com/luiyan/portfolioPL) | luiyan | 0 | 2026-04-04 |
 | [portfolioplaceholder](https://github.com/prasansecures/portfolioplaceholder) | prasansecures | 0 | 2026-07-19 |
@@ -180719,6 +180838,7 @@
 | [PortfolioRisk](https://github.com/rudraksh-18/PortfolioRisk) | rudraksh-18 | 0 | 2026-05-10 |
 | [PortfolioRiskAnalytics](https://github.com/henilp105/PortfolioRiskAnalytics) | henilp105 | 0 | 2026-05-12 |
 | [PortfolioRiskAnalyzer](https://github.com/zairil10/PortfolioRiskAnalyzer) | zairil10 | 0 | 2026-06-05 |
+| [PortfolioRiskAPI](https://github.com/Chandran26112001/PortfolioRiskAPI) | Chandran26112001 | 0 | 2026-11-28 |
 | [PortfolioRiskCalculator](https://github.com/kmughal/PortfolioRiskCalculator) | kmughal | 0 | 2026-03-15 |
 | [Portfolioriskclassifer123](https://github.com/hasinisatyasri-afk/Portfolioriskclassifer123) | hasinisatyasri-afk | 0 | 2026-10-08 |
 | [PortfolioRiskDashboard](https://github.com/ArinKathapurkar/PortfolioRiskDashboard) | ArinKathapurkar | 0 | 2026-07-28 |
@@ -189078,6 +189198,7 @@
 | [ra2581392423035](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423035) | fatec-jacarei-dsm-portfolio | 1 | 2026-05-26 |
 | [ra2581392423038](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423038) | fatec-jacarei-dsm-portfolio | 0 | 2026-06-15 |
 | [ra2581392423039](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423039) | fatec-jacarei-dsm-portfolio | 0 | 2026-05-08 |
+| [ra2581392423040](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423040) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-28 |
 | [ra2581392423044](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423044) | fatec-jacarei-dsm-portfolio | 0 | 2026-05-08 |
 | [ra2581392423047](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423047) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-04 |
 | [ra2581392513001](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513001) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-18 |
@@ -189088,6 +189209,7 @@
 | [ra2581392513016](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513016) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-15 |
 | [ra2581392513017](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513017) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-19 |
 | [ra2581392513020](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513020) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-27 |
+| [ra2581392513022](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513022) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-28 |
 | [ra2581392513024](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513024) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-13 |
 | [ra2581392513030](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513030) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-18 |
 | [ra2581392513031](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392513031) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-27 |
@@ -189134,6 +189256,7 @@
 | [ra2581392613009](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613009) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-24 |
 | [ra2581392613010](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613010) | fatec-jacarei-dsm-portfolio | 0 | 2026-08-11 |
 | [ra2581392613012](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613012) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-27 |
+| [ra2581392613016](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613016) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-28 |
 | [ra2581392613017](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613017) | fatec-jacarei-dsm-portfolio | 1 | 2026-09-11 |
 | [ra2581392613020](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613020) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-11 |
 | [ra2581392613023](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613023) | fatec-jacarei-dsm-portfolio | 1 | 2026-08-24 |
@@ -189141,12 +189264,15 @@
 | [ra2581392613025](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613025) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-27 |
 | [ra2581392613029](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613029) | fatec-jacarei-dsm-portfolio | 1 | 2026-09-17 |
 | [ra2581392613030](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613030) | fatec-jacarei-dsm-portfolio | 1 | 2026-11-25 |
+| [ra2581392613031](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613031) | fatec-jacarei-dsm-portfolio | 1 | 2026-11-28 |
 | [ra2581392613032](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613032) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-09 |
 | [ra2581392613034](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613034) | fatec-jacarei-dsm-portfolio | 0 | 2026-09-24 |
 | [ra2581392613035](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613035) | fatec-jacarei-dsm-portfolio | 0 | 2026-08-20 |
 | [ra2581392613036](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613036) | fatec-jacarei-dsm-portfolio | 1 | 2026-09-13 |
+| [ra2581392613037](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613037) | fatec-jacarei-dsm-portfolio | 1 | 2026-11-28 |
 | [ra2581392613038](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613038) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-27 |
 | [ra2581392613040](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613040) | fatec-jacarei-dsm-portfolio | 1 | 2026-05-08 |
+| [ra2581392613043](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613043) | fatec-jacarei-dsm-portfolio | 0 | 2026-11-28 |
 | [ra2581392613044](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613044) | fatec-jacarei-dsm-portfolio | 0 | 2026-05-07 |
 | [ra2581392613045](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613045) | fatec-jacarei-dsm-portfolio | 0 | 2026-08-25 |
 | [ra2581392613046](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392613046) | fatec-jacarei-dsm-portfolio | 0 | 2026-04-22 |
@@ -189510,6 +189636,7 @@
 | [rafael-soares-portfolio](https://github.com/sawarafael/rafael-soares-portfolio) | sawarafael | 0 | 2026-08-22 |
 | [rafael-sousa-web-portfolio](https://github.com/rafaelsousapereira/rafael-sousa-web-portfolio) | rafaelsousapereira | 0 | 2026-05-24 |
 | [rafael-tocantins-portfolio](https://github.com/rafatocantins/rafael-tocantins-portfolio) | rafatocantins | 0 | 2026-03-23 |
+| [rafael-tozato-portfolio-dev](https://github.com/Rafael-TOZATO/rafael-tozato-portfolio-dev) | Rafael-TOZATO | 0 | 2026-11-28 |
 | [rafaela_portfolio](https://github.com/rafaelatamires17/rafaela_portfolio) | rafaelatamires17 | 0 | 2026-08-09 |
 | [rafaela-data-portfolio](https://github.com/rafaelatamires17/rafaela-data-portfolio) | rafaelatamires17 | 0 | 2026-03-02 |
 | [rafaela-garcez-portfolio](https://github.com/gabrieloata1/rafaela-garcez-portfolio) | gabrieloata1 | 0 | 2026-03-16 |
@@ -192021,6 +192148,7 @@
 | [rc-portfolio](https://github.com/rchivate/rc-portfolio) | rchivate | 0 | 2026-02-27 |
 | [RC-Portfolio](https://github.com/rohitchou/RC-Portfolio) | rohitchou | 0 | 2026-04-12 |
 | [rc-portfolio-2](https://github.com/ricardo-camilo-programador-frontend-web/rc-portfolio-2) | ricardo-camilo-programador-frontend-web | 0 | 2026-10-17 |
+| [rc-portfolio.github.io](https://github.com/RCHash/rc-portfolio.github.io) | RCHash | 0 | 2026-11-28 |
 | [rc-subscription-cookbook](https://github.com/m2ai-portfolio/rc-subscription-cookbook) | m2ai-portfolio | 0 | 2026-03-05 |
 | [rc-va360-portfolio](https://github.com/RCVA360/rc-va360-portfolio) | RCVA360 | 0 | 2026-09-27 |
 | [rc2001portfolio.github.io](https://github.com/rubinkt/rc2001portfolio.github.io) | rubinkt | 0 | 2026-05-03 |
@@ -192552,6 +192680,7 @@
 | [ReactJs-Portfolio](https://github.com/ManTech254/ReactJs-Portfolio) | ManTech254 | 0 | 2026-06-26 |
 | [REACTJS-PORTFOLIO](https://github.com/jojiver/REACTJS-PORTFOLIO) | jojiver | 0 | 2026-08-06 |
 | [ReactJS-portfolio-by-Aamir](https://github.com/ISTIFANO/ReactJS-portfolio-by-Aamir) | ISTIFANO | 0 | 2026-05-09 |
+| [reactjs-portfolio-callmekathy](https://github.com/ductmOfficial/reactjs-portfolio-callmekathy) | ductmOfficial | 0 | 2026-11-28 |
 | [ReactJS-Portfolio-Site](https://github.com/JojokCreator/ReactJS-Portfolio-Site) | JojokCreator | 0 | 2026-09-15 |
 | [ReactJs-Portfolio-using-Tailwind-CSS-Basic-](https://github.com/RokiSheik/ReactJs-Portfolio-using-Tailwind-CSS-Basic-) | RokiSheik | 0 | 2026-09-12 |
 | [reactJs-portfolio-v2](https://github.com/PabloC-Chiavarino/reactJs-portfolio-v2) | PabloC-Chiavarino | 0 | 2026-03-16 |
@@ -193119,6 +193248,7 @@
 | [Regan-portfolio](https://github.com/Regan-06/Regan-portfolio) | Regan-06 | 0 | 2026-06-24 |
 | [regan-robotics-portfolio](https://github.com/Regalbeagle8/regan-robotics-portfolio) | Regalbeagle8 | 0 | 2026-05-28 |
 | [Regan-Temudo-GRC-Portfolio](https://github.com/regantemudo/Regan-Temudo-GRC-Portfolio) | regantemudo | 0 | 2026-04-11 |
+| [regan-yates-portfolio](https://github.com/rjyates/regan-yates-portfolio) | rjyates | 0 | 2026-11-28 |
 | [regathered-ai-portfolio](https://github.com/oOREDACTEDOo/regathered-ai-portfolio) | oOREDACTEDOo | 0 | 2026-07-20 |
 | [RegencyPortfolio](https://github.com/REGENCY-14/RegencyPortfolio) | REGENCY-14 | 0 | 2026-09-12 |
 | [Regene-s-Portfolio](https://github.com/regdions/Regene-s-Portfolio) | regdions | 0 | 2026-09-23 |
@@ -193542,6 +193672,7 @@
 | [Rento-Portfolio](https://github.com/OkuzonoRento/Rento-Portfolio) | OkuzonoRento | 0 | 2026-06-13 |
 | [renu_portfolio](https://github.com/renuprasanna525/renu_portfolio) | renuprasanna525 | 0 | 2026-09-18 |
 | [renu-portfolio](https://github.com/renawhore01-coder/renu-portfolio) | renawhore01-coder | 0 | 2026-07-11 |
+| [Renu-s-portfolio](https://github.com/drenu04/Renu-s-portfolio) | drenu04 | 0 | 2026-11-28 |
 | [Renu-Solanki-Portfolio](https://github.com/Anomwarbhuvan/Renu-Solanki-Portfolio) | Anomwarbhuvan | 0 | 2026-03-28 |
 | [Renuga-Portfolio](https://github.com/Renuthiru/Renuga-Portfolio) | Renuthiru | 0 | 2026-04-15 |
 | [RenugaR-portfolio](https://github.com/renuga140802-star/RenugaR-portfolio) | renuga140802-star | 0 | 2026-07-14 |
@@ -196040,6 +196171,7 @@
 | [Rob-cp-portfolio.html](https://github.com/74001w/Rob-cp-portfolio.html) | 74001w | 0 | 2026-03-28 |
 | [rob-donohue-portfolio](https://github.com/robdon3/rob-donohue-portfolio) | robdon3 | 0 | 2026-07-18 |
 | [rob-furman-portfolio](https://github.com/DrRobF/rob-furman-portfolio) | DrRobF | 0 | 2026-04-24 |
+| [Rob-Harris-Portfolio](https://github.com/easystreetgames/Rob-Harris-Portfolio) | easystreetgames | 0 | 2026-11-28 |
 | [Rob-Janssen-Portfolio](https://github.com/drobjanssen-ops/Rob-Janssen-Portfolio) | drobjanssen-ops | 0 | 2026-11-20 |
 | [rob-kremers-portfolio](https://github.com/dupesnacks/rob-kremers-portfolio) | dupesnacks | 0 | 2026-02-28 |
 | [Rob-Mackay-Portfolio](https://github.com/Twotwenty2/Rob-Mackay-Portfolio) | Twotwenty2 | 0 | 2026-06-20 |
@@ -199738,6 +199870,7 @@
 | [SAI_SATHWIK_REDDY_PORTFOLIO_2](https://github.com/sai1324567890/SAI_SATHWIK_REDDY_PORTFOLIO_2) | sai1324567890 | 0 | 2026-10-10 |
 | [SAI_SRINIVAS_PATIBANDLA_PORTFOLIO](https://github.com/Sai-Srinivas-P/SAI_SRINIVAS_PATIBANDLA_PORTFOLIO) | Sai-Srinivas-P | 0 | 2026-10-06 |
 | [sai_sriya_portfolio.html](https://github.com/saisriya2707/sai_sriya_portfolio.html) | saisriya2707 | 0 | 2026-05-20 |
+| [Sai_Sushant_Koranne_Portfolio](https://github.com/spoiler335/Sai_Sushant_Koranne_Portfolio) | spoiler335 | 0 | 2026-11-28 |
 | [Sai_Teja_Chippada_Portfolio](https://github.com/saiteja2600/Sai_Teja_Chippada_Portfolio) | saiteja2600 | 0 | 2026-07-07 |
 | [Sai_teja_Portfolio](https://github.com/support1122/Sai_teja_Portfolio) | support1122 | 0 | 2026-04-07 |
 | [sai-3d-vfx-portfolio](https://github.com/ToniBommisetty/sai-3d-vfx-portfolio) | ToniBommisetty | 0 | 2026-05-16 |
@@ -200258,6 +200391,7 @@
 | [Sajid-portfolio](https://github.com/wwwsajidworldin/Sajid-portfolio) | wwwsajidworldin | 0 | 2026-05-03 |
 | [Sajid-Portfolio](https://github.com/SajidMohmand/Sajid-Portfolio) | SajidMohmand | 0 | 2026-07-24 |
 | [Sajid-portfolio-](https://github.com/mdhalimmdhalim602-lang/Sajid-portfolio-) | mdhalimmdhalim602-lang | 0 | 2026-11-14 |
+| [sajid-portfolio-](https://github.com/shksajid-bit066/sajid-portfolio-) | shksajid-bit066 | 0 | 2026-11-28 |
 | [Sajid-portfolio-nextjs](https://github.com/Sajid777Officials/Sajid-portfolio-nextjs) | Sajid777Officials | 0 | 2026-03-08 |
 | [sajid-portfolio-v2](https://github.com/Nsajid9/sajid-portfolio-v2) | Nsajid9 | 0 | 2026-03-12 |
 | [sajid-portfolio-website](https://github.com/adenosinesaj/sajid-portfolio-website) | adenosinesaj | 0 | 2026-08-26 |
@@ -203430,6 +203564,7 @@
 | [sassi_portfolio](https://github.com/Sasi2005k/sassi_portfolio) | Sasi2005k | 0 | 2026-04-02 |
 | [Sassi-Portfolio](https://github.com/WizardFist/Sassi-Portfolio) | WizardFist | 0 | 2026-05-09 |
 | [sasta-portfolio](https://github.com/atharhive/sasta-portfolio) | atharhive | 0 | 2026-08-21 |
+| [sastha-portfolio](https://github.com/maharajasastha888-ai/sastha-portfolio) | maharajasastha888-ai | 0 | 2026-11-28 |
 | [sasthik_k_portfolio](https://github.com/SKTech-07/sasthik_k_portfolio) | SKTech-07 | 0 | 2026-05-02 |
 | [sasthik-K-portfolio](https://github.com/SKTech-07/sasthik-K-portfolio) | SKTech-07 | 0 | 2026-05-01 |
 | [sastiga-portfolio](https://github.com/sastigasivakumar73-del/sastiga-portfolio) | sastigasivakumar73-del | 0 | 2026-08-20 |
@@ -203471,6 +203606,7 @@
 | [Satheesh_Kumar_Portfolio](https://github.com/satheeshkumar953/Satheesh_Kumar_Portfolio) | satheeshkumar953 | 0 | 2026-03-30 |
 | [satheesh_portfolio](https://github.com/Satheeshwaran-Developer/satheesh_portfolio) | Satheeshwaran-Developer | 0 | 2026-04-02 |
 | [Satheesh-Portfolio](https://github.com/satheesh-sk-cmd/Satheesh-Portfolio) | satheesh-sk-cmd | 0 | 2026-07-07 |
+| [satheesh-portfolio](https://github.com/satheeshtme-sketch/satheesh-portfolio) | satheeshtme-sketch | 0 | 2026-11-28 |
 | [satheeskumar-portfolio](https://github.com/satheeskani/satheeskumar-portfolio) | satheeskani | 0 | 2026-04-27 |
 | [Sathianathan-s-Portfolio](https://github.com/jonathan-1218/Sathianathan-s-Portfolio) | jonathan-1218 | 0 | 2026-06-30 |
 | [Sathick-portfolio](https://github.com/sathick-codes/Sathick-portfolio) | sathick-codes | 0 | 2026-05-16 |
@@ -203999,6 +204135,7 @@
 | [sayan_portfolio1](https://github.com/SayanPal12/sayan_portfolio1) | SayanPal12 | 0 | 2026-08-19 |
 | [Sayan_Sinha_Portfolio_Website](https://github.com/Sayan260106/Sayan_Sinha_Portfolio_Website) | Sayan260106 | 0 | 2026-04-14 |
 | [sayan-das-portfolio-new](https://github.com/Sayan-01/sayan-das-portfolio-new) | Sayan-01 | 0 | 2026-04-11 |
+| [sayan-dev-portfolio](https://github.com/sayan-k211/sayan-dev-portfolio) | sayan-k211 | 1 | 2026-11-28 |
 | [sayan-ghosh-portfolio](https://github.com/sayanghosh2002cs-tech/sayan-ghosh-portfolio) | sayanghosh2002cs-tech | 0 | 2026-08-03 |
 | [sayan-goswami-portfolio](https://github.com/sayangoswami-es/sayan-goswami-portfolio) | sayangoswami-es | 0 | 2026-08-16 |
 | [sayan-mandal-portfolio](https://github.com/codesayan2004/sayan-mandal-portfolio) | codesayan2004 | 0 | 2026-03-06 |
@@ -204253,6 +204390,7 @@
 | [schniefs-portfolio-academy-project](https://github.com/YvesGM/schniefs-portfolio-academy-project) | YvesGM | 0 | 2026-06-03 |
 | [schnittger-dev-portfolio](https://github.com/CallMePatrick/schnittger-dev-portfolio) | CallMePatrick | 0 | 2026-05-20 |
 | [schoen-portfolio](https://github.com/schomath/schoen-portfolio) | schomath | 0 | 2026-05-14 |
+| [scholar-webservice-portfolio](https://github.com/caioSoares-wa/scholar-webservice-portfolio) | caioSoares-wa | 0 | 2026-11-28 |
 | [scholarship-portfolio](https://github.com/PrashantTamang12/scholarship-portfolio) | PrashantTamang12 | 0 | 2026-08-12 |
 | [school_next_js_portfolio](https://github.com/ThyLS/school_next_js_portfolio) | ThyLS | 0 | 2026-08-17 |
 | [school_portfolio](https://github.com/valdehuezalib/school_portfolio) | valdehuezalib | 0 | 2026-04-07 |
@@ -205492,6 +205630,7 @@
 | [SenPortfolio](https://github.com/Elliana-starr/SenPortfolio) | Elliana-starr | 1 | 2026-07-23 |
 | [SenrithFernandoPortfolio](https://github.com/SenrithFernando/SenrithFernandoPortfolio) | SenrithFernando | 0 | 2026-05-18 |
 | [sensei-fortnite-portfolio](https://github.com/AayanStudios/sensei-fortnite-portfolio) | AayanStudios | 0 | 2026-07-26 |
+| [sensex-options-portfolio-engine](https://github.com/artvibe1999/sensex-options-portfolio-engine) | artvibe1999 | 0 | 2026-11-28 |
 | [sensor-dashboard-portfolio](https://github.com/progne-dev/sensor-dashboard-portfolio) | progne-dev | 0 | 2026-08-24 |
 | [Sensor-Fusion_Portfolio-2](https://github.com/PavinSP/Sensor-Fusion_Portfolio-2) | PavinSP | 0 | 2026-08-15 |
 | [sensor-fusion-portfolio](https://github.com/Vaiy108/sensor-fusion-portfolio) | Vaiy108 | 0 | 2026-03-08 |
@@ -206713,6 +206852,7 @@
 | [Shakar_Portfolio](https://github.com/shakarM/Shakar_Portfolio) | shakarM | 0 | 2026-05-28 |
 | [Shakawat_Portfolio](https://github.com/Shakawath28/Shakawat_Portfolio) | Shakawath28 | 0 | 2026-03-16 |
 | [Shakawat_Portfolio2](https://github.com/Shakawath28/Shakawat_Portfolio2) | Shakawath28 | 0 | 2026-03-16 |
+| [shake_sohel_portfolio](https://github.com/ashiq02rahman-gif/shake_sohel_portfolio) | ashiq02rahman-gif | 0 | 2026-11-28 |
 | [shake-portfolio](https://github.com/shake3deth/shake-portfolio) | shake3deth | 0 | 2026-06-25 |
 | [Shakeeb_Portfolio](https://github.com/qamarshakeeb-cloud/Shakeeb_Portfolio) | qamarshakeeb-cloud | 0 | 2026-06-15 |
 | [Shakeeb_Portfolio_Website](https://github.com/shakeebiqbal0091/Shakeeb_Portfolio_Website) | shakeebiqbal0091 | 0 | 2026-09-16 |
@@ -207852,6 +207992,7 @@
 | [shereen-portfolio](https://github.com/shereenashraf610-alt/shereen-portfolio) | shereenashraf610-alt | 0 | 2026-10-17 |
 | [Shereif-Portfolio](https://github.com/Shereif10/Shereif-Portfolio) | Shereif10 | 0 | 2026-10-10 |
 | [Sherhan-Abid-Portfolio](https://github.com/sherhanabid123-debug/Sherhan-Abid-Portfolio) | sherhanabid123-debug | 0 | 2026-06-23 |
+| [sheri-portfolio](https://github.com/sheerazlakhotheloyal-dev/sheri-portfolio) | sheerazlakhotheloyal-dev | 0 | 2026-11-28 |
 | [Sheria-18---Portfolio](https://github.com/ElSheria/Sheria-18---Portfolio) | ElSheria | 0 | 2026-05-20 |
 | [sheridan-python-Assignment-7-Stock-Portfolio--Report](https://github.com/Palmkuttu/sheridan-python-Assignment-7-Stock-Portfolio--Report) | Palmkuttu | 0 | 2026-03-28 |
 | [sheridan-python-Assignment-7-Stock-Portfolio-Report](https://github.com/Palmkuttu/sheridan-python-Assignment-7-Stock-Portfolio-Report) | Palmkuttu | 0 | 2026-04-07 |
@@ -210898,6 +211039,7 @@
 | [Site-Portfolio-BVP](https://github.com/bvp000/Site-Portfolio-BVP) | bvp000 | 0 | 2026-11-04 |
 | [site-portfolio-cleber](https://github.com/bluiz-cleber/site-portfolio-cleber) | bluiz-cleber | 0 | 2026-08-07 |
 | [site-portfolio-clinica](https://github.com/orbitstudiodev/site-portfolio-clinica) | orbitstudiodev | 0 | 2026-07-06 |
+| [site-portfolio-cms](https://github.com/shachir7-byte/site-portfolio-cms) | shachir7-byte | 0 | 2026-11-28 |
 | [site-portfolio-cv](https://github.com/Inerio/site-portfolio-cv) | Inerio | 0 | 2026-03-08 |
 | [site-portfolio-dentista](https://github.com/danilolimagirotondo/site-portfolio-dentista) | danilolimagirotondo | 0 | 2026-05-09 |
 | [site-portfolio-derick](https://github.com/drkptn/site-portfolio-derick) | drkptn | 0 | 2026-11-08 |
@@ -210959,6 +211101,7 @@
 | [SitePortfolio](https://github.com/SavioDec/SitePortfolio) | SavioDec | 0 | 2026-03-27 |
 | [SitePortfolio-V2](https://github.com/ranggapwsaputra/SitePortfolio-V2) | ranggapwsaputra | 0 | 2026-03-13 |
 | [SitePortfolioGabs](https://github.com/gabriel12012014/SitePortfolioGabs) | gabriel12012014 | 0 | 2026-03-07 |
+| [SitePortfolioInvestimentos](https://github.com/geneiros/SitePortfolioInvestimentos) | geneiros | 0 | 2026-11-28 |
 | [SitePortfolioLearnhtml](https://github.com/velvetwhyme/SitePortfolioLearnhtml) | velvetwhyme | 0 | 2026-11-07 |
 | [SitePortfolioPessoal](https://github.com/TTechInc/SitePortfolioPessoal) | TTechInc | 0 | 2026-05-12 |
 | [SitePortfolioProfissional](https://github.com/Kennykiller36/SitePortfolioProfissional) | Kennykiller36 | 0 | 2026-08-18 |
@@ -211197,6 +211340,7 @@
 | [siyu-liu-portfolio](https://github.com/kikualf/siyu-liu-portfolio) | kikualf | 0 | 2026-08-16 |
 | [siyu-portfolio](https://github.com/Ch-siyu/siyu-portfolio) | Ch-siyu | 0 | 2026-06-06 |
 | [Siyu-portfolio](https://github.com/PanSiyu819/Siyu-portfolio) | PanSiyu819 | 0 | 2026-10-19 |
+| [siyuan-lu-portfolio](https://github.com/gla628/siyuan-lu-portfolio) | gla628 | 0 | 2026-11-28 |
 | [siyun-portfolio](https://github.com/cyunlee/siyun-portfolio) | cyunlee | 0 | 2026-08-24 |
 | [siza-portfolio](https://github.com/srijaytuladhar/siza-portfolio) | srijaytuladhar | 0 | 2026-03-07 |
 | [sizi-portfolio](https://github.com/czvein17/sizi-portfolio) | czvein17 | 0 | 2026-08-22 |
@@ -211595,6 +211739,7 @@
 | [smaple-portfolio](https://github.com/abhishekkumar-ai/smaple-portfolio) | abhishekkumar-ai | 0 | 2026-08-26 |
 | [Smar-Portfolio-C-](https://github.com/papernutcracker/Smar-Portfolio-C-) | papernutcracker | 0 | 2026-05-22 |
 | [smarak-portfolio](https://github.com/smarak-source/smarak-portfolio) | smarak-source | 0 | 2026-06-23 |
+| [smaran-portfolio](https://github.com/smaranballa/smaran-portfolio) | smaranballa | 0 | 2026-11-28 |
 | [smarfypix-portfolio](https://github.com/smarfypix/smarfypix-portfolio) | smarfypix | 0 | 2026-06-04 |
 | [smarika-portfolio](https://github.com/smarika-hub/smarika-portfolio) | smarika-hub | 0 | 2026-04-20 |
 | [smarnb-portfolio](https://github.com/SMARNB/smarnb-portfolio) | SMARNB | 0 | 2026-07-01 |
@@ -212783,6 +212928,7 @@
 | [soliha-portfolio](https://github.com/sollveiige191-cloud/soliha-portfolio) | sollveiige191-cloud | 0 | 2026-04-29 |
 | [Solihu_Mariyam_Omotinuola_Data-Analysis_Portfolio](https://github.com/Maryam5890/Solihu_Mariyam_Omotinuola_Data-Analysis_Portfolio) | Maryam5890 | 0 | 2026-05-06 |
 | [Soliman-Matthew_Portfolio](https://github.com/matty-soliman/Soliman-Matthew_Portfolio) | matty-soliman | 0 | 2026-07-06 |
+| [Soliman-portfolio](https://github.com/mdsolimansikder7/Soliman-portfolio) | mdsolimansikder7 | 0 | 2026-11-28 |
 | [Solin-Mythos-Portfolio](https://github.com/Solin-Mythos/Solin-Mythos-Portfolio) | Solin-Mythos | 0 | 2026-04-21 |
 | [solinprime-portfolio](https://github.com/JootaCeeHub/solinprime-portfolio) | JootaCeeHub | 0 | 2026-08-20 |
 | [solis-agency-portfolio](https://github.com/frederickchan179/solis-agency-portfolio) | frederickchan179 | 0 | 2026-10-07 |
@@ -213590,6 +213736,7 @@
 | [soyam-portfolio](https://github.com/soyam-cyber/soyam-portfolio) | soyam-cyber | 0 | 2026-08-16 |
 | [soyamgarg-portfolio](https://github.com/soyamgargnrw/soyamgarg-portfolio) | soyamgargnrw | 0 | 2026-09-09 |
 | [soyan-portfolio](https://github.com/Soyan-x/soyan-portfolio) | Soyan-x | 0 | 2026-08-15 |
+| [soydrakito-portfolio](https://github.com/DRAKO6666/soydrakito-portfolio) | DRAKO6666 | 0 | 2026-11-28 |
 | [soyeb-portfolio](https://github.com/emd1az/soyeb-portfolio) | emd1az | 0 | 2026-07-25 |
 | [soyel-portfolio](https://github.com/soyel980/soyel-portfolio) | soyel980 | 0 | 2026-06-26 |
 | [soyeon-park-portfolio](https://github.com/ssoyeee/soyeon-park-portfolio) | ssoyeee | 0 | 2026-04-01 |
@@ -213758,6 +213905,7 @@
 | [spcl-portfolio](https://github.com/Nitish23pradhan/spcl-portfolio) | Nitish23pradhan | 0 | 2026-03-27 |
 | [spcsamlip-portfolio](https://github.com/imtj8dl/spcsamlip-portfolio) | imtj8dl | 0 | 2026-10-10 |
 | [spd-portfolio](https://github.com/Wrostdevil/spd-portfolio) | Wrostdevil | 0 | 2026-10-12 |
+| [spdedsec-portfolio](https://github.com/spdedsec/spdedsec-portfolio) | spdedsec | 0 | 2026-11-28 |
 | [speak-up-botswana-website](https://github.com/dikitsomotona-portfolio/speak-up-botswana-website) | dikitsomotona-portfolio | 0 | 2026-10-02 |
 | [speaker-portfolio](https://github.com/jakansha2001/speaker-portfolio) | jakansha2001 | 0 | 2026-02-27 |
 | [speaking-portfolio](https://github.com/Engccer/speaking-portfolio) | Engccer | 0 | 2026-10-09 |
@@ -213943,6 +214091,7 @@
 | [sports-data-portfolio](https://github.com/Drewsky33/sports-data-portfolio) | Drewsky33 | 0 | 2026-04-11 |
 | [sports-design-portfolio](https://github.com/hova-editz/sports-design-portfolio) | hova-editz | 0 | 2026-11-05 |
 | [sports-management-portfolio](https://github.com/Riley-777/sports-management-portfolio) | Riley-777 | 0 | 2026-11-12 |
+| [sports-media-portfolio](https://github.com/Vansh2008s/sports-media-portfolio) | Vansh2008s | 0 | 2026-11-28 |
 | [sports-partnerships-portfolio](https://github.com/Aswaghosh25/sports-partnerships-portfolio) | Aswaghosh25 | 0 | 2026-11-13 |
 | [sports-portfolio](https://github.com/santhosharun99/sports-portfolio) | santhosharun99 | 0 | 2026-03-28 |
 | [Sports-portfolio](https://github.com/EshanBhatt/Sports-portfolio) | EshanBhatt | 0 | 2026-05-30 |
@@ -214281,6 +214430,7 @@
 | [SQL-Server-Business-Reports-Portfolio](https://github.com/fetkira9-source/SQL-Server-Business-Reports-Portfolio) | fetkira9-source | 0 | 2026-06-06 |
 | [SQL-Server-DBA-Portfolio](https://github.com/13carmela/SQL-Server-DBA-Portfolio) | 13carmela | 0 | 2026-07-22 |
 | [sql-server-dba-portfolio](https://github.com/Cyningesleh/sql-server-dba-portfolio) | Cyningesleh | 0 | 2026-07-25 |
+| [SQL-SERVER-DBA-PORTFOLIO](https://github.com/ShewitKahsaySQLServerDBA/SQL-SERVER-DBA-PORTFOLIO) | ShewitKahsaySQLServerDBA | 0 | 2026-11-28 |
 | [sql-server-expert-portfolio](https://github.com/andrey22andrade/sql-server-expert-portfolio) | andrey22andrade | 0 | 2026-04-20 |
 | [sql-server-portfolio](https://github.com/frantzba/sql-server-portfolio) | frantzba | 0 | 2026-03-04 |
 | [SQL-Server-Portfolio](https://github.com/willschriner/SQL-Server-Portfolio) | willschriner | 0 | 2026-04-21 |
@@ -214864,6 +215014,7 @@
 | [srkim-portfolio](https://github.com/SrKim2026/srkim-portfolio) | SrKim2026 | 0 | 2026-10-16 |
 | [srkrcyber-portfolio](https://github.com/RohitKumarReddySakam/srkrcyber-portfolio) | RohitKumarReddySakam | 0 | 2026-03-02 |
 | [srm_portfolio](https://github.com/SindiswaRonaldMbele/srm_portfolio) | SindiswaRonaldMbele | 0 | 2026-05-01 |
+| [srmunyem-portfolio](https://github.com/bizsrm25-dev/srmunyem-portfolio) | bizsrm25-dev | 0 | 2026-11-28 |
 | [SRN-Portfolio](https://github.com/raghunandhan04/SRN-Portfolio) | raghunandhan04 | 0 | 2026-03-11 |
 | [SroNick-Portfolio](https://github.com/SroNick/SroNick-Portfolio) | SroNick | 0 | 2026-04-07 |
 | [sroud-portfolio](https://github.com/SroudDarweesh/sroud-portfolio) | SroudDarweesh | 0 | 2026-07-21 |
@@ -216301,6 +216452,7 @@
 | [student_e_portfolio](https://github.com/Vyshnavi-sudo/student_e_portfolio) | Vyshnavi-sudo | 0 | 2026-10-12 |
 | [student_help_portfolio](https://github.com/Bhargav0018/student_help_portfolio) | Bhargav0018 | 0 | 2026-08-19 |
 | [Student_Management_Portfolio](https://github.com/Afifa3305/Student_Management_Portfolio) | Afifa3305 | 0 | 2026-08-14 |
+| [student_portal-portfolio](https://github.com/Kazu-Coder046/student_portal-portfolio) | Kazu-Coder046 | 0 | 2026-11-28 |
 | [Student_Portfolio](https://github.com/douaaboualla-profilo/Student_Portfolio) | douaaboualla-profilo | 0 | 2026-02-27 |
 | [student_portfolio](https://github.com/ancilin-jenifer/student_portfolio) | ancilin-jenifer | 0 | 2026-03-02 |
 | [Student_portfolio](https://github.com/Njaya6/Student_portfolio) | Njaya6 | 0 | 2026-04-22 |
@@ -218895,6 +219047,7 @@
 | [swarup-portfolio](https://github.com/swarupecenits/swarup-portfolio) | swarupecenits | 1 | 2026-03-15 |
 | [Swarup-s-Portfolio](https://github.com/SwarupShekhar/Swarup-s-Portfolio) | SwarupShekhar | 1 | 2026-03-29 |
 | [SWARUP-SATISH-CHAUDHARI-Portfolio](https://github.com/swarupchaudhari/SWARUP-SATISH-CHAUDHARI-Portfolio) | swarupchaudhari | 0 | 2026-09-10 |
+| [SWARUPA-PORTFOLIO](https://github.com/kalisettinagaswarupa/SWARUPA-PORTFOLIO) | kalisettinagaswarupa | 0 | 2026-11-28 |
 | [SwarupCreates-Portfolio-Project](https://github.com/SwarupCreates/SwarupCreates-Portfolio-Project) | SwarupCreates | 0 | 2026-07-27 |
 | [Swasthik-R-portfolio](https://github.com/swasthik001877/Swasthik-R-portfolio) | swasthik001877 | 0 | 2026-09-13 |
 | [swasthik-s-portfolio-website](https://github.com/sriswasthik/swasthik-s-portfolio-website) | sriswasthik | 1 | 2026-03-09 |
@@ -225609,6 +225762,7 @@
 | [transfer_my_sorbonne_university-programming-portfolio_with_an_add-](https://github.com/boutalebimen317-stack/transfer_my_sorbonne_university-programming-portfolio_with_an_add-) | boutalebimen317-stack | 1 | 2026-11-18 |
 | [Transformer_Health_Portfolio](https://github.com/VolMax-Studio/Transformer_Health_Portfolio) | VolMax-Studio | 0 | 2026-06-17 |
 | [transformer-portfolio](https://github.com/garlapatiraviteja/transformer-portfolio) | garlapatiraviteja | 0 | 2026-08-08 |
+| [transformer-portfolio-optimization](https://github.com/LucasQi/transformer-portfolio-optimization) | LucasQi | 0 | 2026-11-28 |
 | [transformer-ppo-portfolio](https://github.com/yonghoon1114/transformer-ppo-portfolio) | yonghoon1114 | 0 | 2026-05-17 |
 | [transformer-ppo-portfolio-optimization-thesis](https://github.com/lenhatquyen9803-glitch/transformer-ppo-portfolio-optimization-thesis) | lenhatquyen9803-glitch | 0 | 2026-09-25 |
 | [Transit-Data-Product-Portfolio-Governance-Board](https://github.com/Saurav-Kanegaonkar/Transit-Data-Product-Portfolio-Governance-Board) | Saurav-Kanegaonkar | 0 | 2026-05-24 |
@@ -225927,6 +226081,7 @@
 | [trista-portfolio](https://github.com/trista-chen-29/trista-portfolio) | trista-chen-29 | 0 | 2026-03-21 |
 | [tristan_portfolio](https://github.com/tristanoshea01/tristan_portfolio) | tristanoshea01 | 0 | 2026-08-12 |
 | [Tristan_Sapsin_Portfolio](https://github.com/tsapsin-1/Tristan_Sapsin_Portfolio) | tsapsin-1 | 0 | 2026-07-27 |
+| [Tristan_Weston_Portfolio](https://github.com/Twes77/Tristan_Weston_Portfolio) | Twes77 | 0 | 2026-11-28 |
 | [tristan-allen-portfolio](https://github.com/TristanTA/tristan-allen-portfolio) | TristanTA | 1 | 2026-03-04 |
 | [Tristan-Foulcard-EE-Portfolio](https://github.com/Tristanfoul/Tristan-Foulcard-EE-Portfolio) | Tristanfoul | 0 | 2026-04-05 |
 | [tristan-portfolio](https://github.com/Safirl/tristan-portfolio) | Safirl | 0 | 2026-06-30 |
@@ -228038,6 +228193,7 @@
 | [us-equity-portfolio-analysis](https://github.com/parvc1205-pixel/us-equity-portfolio-analysis) | parvc1205-pixel | 0 | 2026-08-10 |
 | [US-Equity-Portfolio-Analytics](https://github.com/Yash-Andhrutkar/US-Equity-Portfolio-Analytics) | Yash-Andhrutkar | 0 | 2026-10-31 |
 | [us-equity-portfolio-decision-support](https://github.com/utkudemircan35/us-equity-portfolio-decision-support) | utkudemircan35 | 0 | 2026-11-21 |
+| [us-etf-portfolio-management](https://github.com/gangduliu/us-etf-portfolio-management) | gangduliu | 0 | 2026-11-28 |
 | [US-IT-Recruiter-Portfolio](https://github.com/Shivam-Shankhdar/US-IT-Recruiter-Portfolio) | Shivam-Shankhdar | 0 | 2026-10-01 |
 | [US-Mortgage-Portfolio-Analysis](https://github.com/NikhilDesai96/US-Mortgage-Portfolio-Analysis) | NikhilDesai96 | 0 | 2026-10-21 |
 | [us-portfolio](https://github.com/seongbin2023/us-portfolio) | seongbin2023 | 0 | 2026-07-27 |
@@ -229233,6 +229389,7 @@
 | [Vanitha-s-Portfolio](https://github.com/VanithaSengottuvel/Vanitha-s-Portfolio) | VanithaSengottuvel | 0 | 2026-07-06 |
 | [vanker-invest-ai-evals-portfolio](https://github.com/joseluisescuadravalle/vanker-invest-ai-evals-portfolio) | joseluisescuadravalle | 0 | 2026-11-16 |
 | [VANLAM-Portfolio](https://github.com/phamthangph13/VANLAM-Portfolio) | phamthangph13 | 0 | 2026-11-15 |
+| [Vanleap-Portfolio](https://github.com/Vannet-ach/Vanleap-Portfolio) | Vannet-ach | 0 | 2026-11-28 |
 | [vanmole-karan-yadav-portfolio](https://github.com/VanmoleKaranYadav/vanmole-karan-yadav-portfolio) | VanmoleKaranYadav | 0 | 2026-09-24 |
 | [vann-design-portfolio](https://github.com/revannakskarangreja-jpg/vann-design-portfolio) | revannakskarangreja-jpg | 0 | 2026-09-06 |
 | [vanna-portfolio](https://github.com/vannachan711-git/vanna-portfolio) | vannachan711-git | 0 | 2026-07-29 |
@@ -230324,6 +230481,7 @@
 | [Veron-Malatjie-Portfolio](https://github.com/Veron22Juan/Veron-Malatjie-Portfolio) | Veron22Juan | 0 | 2026-07-18 |
 | [veron-portfolio-app](https://github.com/veronquistbuildshere/veron-portfolio-app) | veronquistbuildshere | 0 | 2026-04-25 |
 | [verona-project-portfolio](https://github.com/veronamahilet/verona-project-portfolio) | veronamahilet | 0 | 2026-04-08 |
+| [Veronia-portfolio-](https://github.com/veroniaadellove9-afk/Veronia-portfolio-) | veroniaadellove9-afk | 0 | 2026-11-28 |
 | [Veronica_Bystroem_Portfolio](https://github.com/vbystroem/Veronica_Bystroem_Portfolio) | vbystroem | 0 | 2026-04-16 |
 | [veronica-carli-portfolio](https://github.com/helloveronica-carli/veronica-carli-portfolio) | helloveronica-carli | 0 | 2026-05-23 |
 | [veronica-mangrich-portfolio](https://github.com/paboden/veronica-mangrich-portfolio) | paboden | 0 | 2026-08-30 |
@@ -233249,6 +233407,7 @@
 | [vunhatminh.portfolio](https://github.com/vucrown/vunhatminh.portfolio) | vucrown | 0 | 2026-11-10 |
 | [vunkhemra-portfolio](https://github.com/itkmeng87-lang/vunkhemra-portfolio) | itkmeng87-lang | 0 | 2026-03-07 |
 | [Vuong_Tran_Portfolio](https://github.com/duckytran2k6/Vuong_Tran_Portfolio) | duckytran2k6 | 0 | 2026-08-29 |
+| [vuong-portfolio](https://github.com/vlam8848-ctrl/vuong-portfolio) | vlam8848-ctrl | 0 | 2026-11-28 |
 | [vuong-thanh-an-TA-portfolio](https://github.com/VuongThanhAn/vuong-thanh-an-TA-portfolio) | VuongThanhAn | 0 | 2026-08-26 |
 | [vuPhuongLinh_Portfolio_2026](https://github.com/QuachHung1102/vuPhuongLinh_Portfolio_2026) | QuachHung1102 | 0 | 2026-10-31 |
 | [vusal-abbasov-portfolio](https://github.com/vuzal/vusal-abbasov-portfolio) | vuzal | 0 | 2026-05-17 |
@@ -234532,6 +234691,7 @@
 | [Web-Portfolio-Large-Tasks](https://github.com/a-razzo/Web-Portfolio-Large-Tasks) | a-razzo | 0 | 2026-03-07 |
 | [Web-Portfolio-Lloyd](https://github.com/lloydskwe/Web-Portfolio-Lloyd) | lloydskwe | 0 | 2026-04-18 |
 | [web-portfolio-main](https://github.com/hibaturrohman09-web/web-portfolio-main) | hibaturrohman09-web | 0 | 2026-11-11 |
+| [Web-portfolio-main](https://github.com/Clinton66/Web-portfolio-main) | Clinton66 | 0 | 2026-11-28 |
 | [Web-portfolio-Marcell-v-2](https://github.com/marcellof605-star/Web-portfolio-Marcell-v-2) | marcellof605-star | 0 | 2026-09-11 |
 | [web-portfolio-maria-jose-serrano](https://github.com/mariajose-serrano/web-portfolio-maria-jose-serrano) | mariajose-serrano | 0 | 2026-03-07 |
 | [web-portfolio-nafisa-zahra](https://github.com/devhermits/web-portfolio-nafisa-zahra) | devhermits | 0 | 2026-04-12 |
@@ -234682,6 +234842,7 @@
 | [WEB-TECH-PORTFOLIO-DEMO](https://github.com/Stile-1473/WEB-TECH-PORTFOLIO-DEMO) | Stile-1473 | 0 | 2026-03-29 |
 | [web-tech-portfolio-website-1-](https://github.com/Ananya-ux-oss/web-tech-portfolio-website-1-) | Ananya-ux-oss | 0 | 2026-06-28 |
 | [Web-Technologies-Fall-2026](https://github.com/Noaman-Saleem-Portfolio/Web-Technologies-Fall-2026) | Noaman-Saleem-Portfolio | 0 | 2026-05-14 |
+| [Web-Technologies-Portfolio](https://github.com/4ktbabey/Web-Technologies-Portfolio) | 4ktbabey | 0 | 2026-11-28 |
 | [Web-Technology-ITS-1119-personal-portfolio](https://github.com/Dineshtharusha/Web-Technology-ITS-1119-personal-portfolio) | Dineshtharusha | 0 | 2026-05-05 |
 | [web-Technology-portfolio](https://github.com/DhanushRamesh041103/web-Technology-portfolio) | DhanushRamesh041103 | 0 | 2026-02-28 |
 | [web-technology-portfolio](https://github.com/subbu2174009/web-technology-portfolio) | subbu2174009 | 0 | 2026-06-05 |
@@ -236936,6 +237097,7 @@
 | [xplorion-portfolio](https://github.com/edulinkup-interns/xplorion-portfolio) | edulinkup-interns | 0 | 2026-11-12 |
 | [xPortfolio](https://github.com/Shadowx69/xPortfolio) | Shadowx69 | 0 | 2026-05-12 |
 | [XposePortfolio](https://github.com/Aleixdiazzz/XposePortfolio) | Aleixdiazzz | 0 | 2026-05-14 |
+| [Xpub-Portfolio-Tracker-Full-Setup](https://github.com/slayerservicecommand/Xpub-Portfolio-Tracker-Full-Setup) | slayerservicecommand | 1 | 2026-11-28 |
 | [XqaeaPortfolio](https://github.com/xqaea/XqaeaPortfolio) | xqaea | 0 | 2026-08-19 |
 | [XR_Final_Portfolio](https://github.com/CamWhamBammus/XR_Final_Portfolio) | CamWhamBammus | 0 | 2026-05-11 |
 | [XR-and-Cybersecurity-Portfolio](https://github.com/mansi200304/XR-and-Cybersecurity-Portfolio) | mansi200304 | 0 | 2026-03-11 |
@@ -237426,6 +237588,7 @@
 | [yaofei-portfolio](https://github.com/yfcorenavy-png/yaofei-portfolio) | yfcorenavy-png | 0 | 2026-04-05 |
 | [yaoxi-portfolio](https://github.com/Yaoxi2003/yaoxi-portfolio) | Yaoxi2003 | 0 | 2026-08-08 |
 | [Yaoxi-s-portfolio](https://github.com/Yaoxi2003/Yaoxi-s-portfolio) | Yaoxi2003 | 0 | 2026-03-04 |
+| [yap-jun-yit-portfolio](https://github.com/yapjunyit-lgtm/yap-jun-yit-portfolio) | yapjunyit-lgtm | 0 | 2026-11-28 |
 | [yap-portfolio](https://github.com/xyoedx/yap-portfolio) | xyoedx | 0 | 2026-11-12 |
 | [yape-motion-portfolio](https://github.com/JorgeLui2025/yape-motion-portfolio) | JorgeLui2025 | 0 | 2026-11-26 |
 | [YAPP_Portfolio](https://github.com/jangmoohyun/YAPP_Portfolio) | jangmoohyun | 0 | 2026-10-22 |
@@ -238857,6 +239020,7 @@
 | [yousef-hindi-full-stack-engineer-portfolio](https://github.com/YousefHindi/yousef-hindi-full-stack-engineer-portfolio) | YousefHindi | 0 | 2026-08-19 |
 | [yousef-husari-portfolio](https://github.com/williamsmith362/yousef-husari-portfolio) | williamsmith362 | 1 | 2026-11-10 |
 | [Yousef-Ismail-Portfolio](https://github.com/Youssef-I-Ahmed/Yousef-Ismail-Portfolio) | Youssef-I-Ahmed | 0 | 2026-05-02 |
+| [yousef-ismail-portfolio-full-stack](https://github.com/Youssef-I-Ahmed/yousef-ismail-portfolio-full-stack) | Youssef-I-Ahmed | 0 | 2026-11-28 |
 | [yousef-knifati-portfolio](https://github.com/yousefknifati/yousef-knifati-portfolio) | yousefknifati | 0 | 2026-04-30 |
 | [yousef-masoud-portfolio](https://github.com/yousef-Masoud/yousef-masoud-portfolio) | yousef-Masoud | 0 | 2026-03-10 |
 | [yousef-morse-portfolio](https://github.com/seifelkorashy/yousef-morse-portfolio) | seifelkorashy | 0 | 2026-11-17 |
@@ -239009,6 +239173,7 @@
 | [Yoyo_Portfolio](https://github.com/ZirouLiu/Yoyo_Portfolio) | ZirouLiu | 0 | 2026-06-10 |
 | [yoyo-fang-portfolio](https://github.com/yoyolinfang/yoyo-fang-portfolio) | yoyolinfang | 0 | 2026-07-25 |
 | [yoyoung-portfolio](https://github.com/120424304-dev/yoyoung-portfolio) | 120424304-dev | 0 | 2026-11-09 |
+| [yoyoxu-design-portfolio](https://github.com/yoyoxu07/yoyoxu-design-portfolio) | yoyoxu07 | 0 | 2026-11-28 |
 | [yp_portfolio](https://github.com/pyashu-0710/yp_portfolio) | pyashu-0710 | 0 | 2026-03-15 |
 | [yp02-my-portfolio](https://github.com/yashperane/yp02-my-portfolio) | yashperane | 0 | 2026-10-24 |
 | [ypcodes-portfolio](https://github.com/yashank21/ypcodes-portfolio) | yashank21 | 0 | 2026-08-11 |
@@ -240301,6 +240466,7 @@
 | [Zee-Portfolio](https://github.com/Muqadas-javed/Zee-Portfolio) | Muqadas-javed | 0 | 2026-04-14 |
 | [Zee.Rodrigue-Portfolio](https://github.com/raize21/Zee.Rodrigue-Portfolio) | raize21 | 0 | 2026-08-20 |
 | [zeearcee-ZRC-SY2627_CS3_Portfolio-main.](https://github.com/mbbantilan-alt/zeearcee-ZRC-SY2627_CS3_Portfolio-main.) | mbbantilan-alt | 0 | 2026-09-24 |
+| [zeebuilds-portfolio](https://github.com/mixrouh-droid/zeebuilds-portfolio) | mixrouh-droid | 0 | 2026-11-28 |
 | [zeed-portfolio](https://github.com/WinHtetZaw/zeed-portfolio) | WinHtetZaw | 0 | 2026-11-08 |
 | [zeehadhaque-portfolio](https://github.com/zeehadhaque/zeehadhaque-portfolio) | zeehadhaque | 0 | 2026-11-10 |
 | [zeehaque-portfolio](https://github.com/zeehadhaque/zeehaque-portfolio) | zeehadhaque | 0 | 2026-10-31 |
